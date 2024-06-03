@@ -3,7 +3,7 @@
 
 <head>
     <?php include 'layouts/head.php'; ?>
-    <title>HPIT - Home</title>
+    <title>HPIT - Home \New</title>
 </head>
 
 <body class="home">
