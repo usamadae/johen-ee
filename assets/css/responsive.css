@@ -1,0 +1,365 @@
+@media (max-width:1500px) {
+  #wowslider-container1 .ws-title div{
+
+    font-size:18px !important;
+  
+    line-height: 25px !important;
+  }
+  #wowslider-container1 .ws-title span{
+
+
+    font-size: 90px !important;
+    line-height: 100px !important;
+
+  }
+}
+
+@media (max-width:920px) {
+    button.navbar-toggler {
+        visibility: hidden;
+    }
+    div#menuToggler img {
+        width: 80%;
+    }
+    .navs{
+        display: block;
+      }
+    .top-menu.active{
+        display: none !important;
+    }
+    nav .navbar{
+      max-width: 100%;
+      padding: 0 25px;
+    }
+  
+    nav .navbar .logo a{
+      font-size: 27px;
+    }
+    nav .navbar .links li{
+      padding: 0 10px;
+      white-space: nowrap;
+    }
+    nav .navbar .links li a{
+      font-size: 16px;
+    }
+    nav .navbar .links h3{
+        font-size: 16px;
+        color: var(--blue);
+        margin-top: 12px;
+    
+    }
+  }
+  @media (max-width:800px){
+    .topLinks ul:nth-child(1) {
+        display: none !important;
+    }
+    
+    nav{
+      /* position: relative; */
+    }
+    .navbar .bx-menu{
+      display: block;
+    }
+    nav .navbar .nav-links{
+      position: fixed;
+      top: 0;
+      left: -100%;
+      display: block;
+      max-width: 80%;
+      width: 100%;
+      background:  var(--black);
+      line-height: 40px;
+      padding: 20px;
+      box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+      transition: all 0.5s ease;
+      z-index: 1000;
+      overflow: auto;
+    }
+    .navbar .nav-links .sidebar-logo{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .sidebar-logo .logo-name{
+      font-size: 25px;
+      color: #fff;
+    }
+      .sidebar-logo  i,
+      .navbar .bx-menu{
+        font-size: 25px;
+        color: #fff;
+      }
+    nav .navbar .links{
+      display: block;
+      margin-top: 20px;
+      padding: 0;
+    }
+    nav .navbar .links li .arrow{
+      line-height: 40px;
+    }
+  nav .navbar .links li{
+      display: block;
+      margin: 4px 0;
+    }
+  nav .navbar .links li .sub-menu{
+    position: relative;
+    top: 0;
+    box-shadow: none;
+    display: none;
+  }
+  nav .navbar .links li .sub-menu li{
+    border-bottom: none;
+  
+  }
+  .navbar .links li .sub-menu .more-sub-menu{
+    display: none;
+    position: relative;
+    left: 0;
+  }
+  .navbar .links li .sub-menu .more-sub-menu li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .links li:hover .htmlcss-arrow,
+  .links li:hover .js-arrow{
+    transform: rotate(0deg);
+    }
+    .navbar .links li .sub-menu .more-sub-menu{
+      display: none;
+    }
+    .navbar .links li .sub-menu .more span{
+      /* background: red; */
+      display: flex;
+      align-items: center;
+      /* justify-content: space-between; */
+    }
+  
+    .links li .sub-menu .more:hover .more-sub-menu{
+      display: none;
+    }
+    nav .navbar .links li:hover .htmlCss-sub-menu,
+    nav .navbar .links li:hover .js-sub-menu{
+      display: none;
+    }
+  .navbar .nav-links.show1 .links .htmlCss-sub-menu,
+    .navbar .nav-links.show3 .links .js-sub-menu,
+    .navbar .nav-links.show2 .links .more .more-sub-menu{
+        display: block;
+        padding: 0;
+      }
+      .navbar .nav-links.show1 .links .htmlcss-arrow,
+      .navbar .nav-links.show3 .links .js-arrow{
+          transform: rotate(180deg);
+  }
+      .navbar .nav-links.show2 .links .more-arrow{
+        transform: rotate(90deg);
+      }
+  }
+
+  @media (max-width:600px){
+       /*Company Page*/
+    
+    /*Company*/
+    
+    section.company-banner {
+      background-image: url(../img/company/companybanner.png) !important;
+  background-size: cover;
+  background-position: center;
+  height: 550px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  overflow: hidden;
+  align-items: end !important;
+  padding: 0px 0 20px 0;
+}
+ .company-banner:after {
+  
+  position: absolute;
+  content: "";
+  width: 120% !important;
+  height: 90%;
+  background: url(../img/company/companybanner-after.png) no-repeat center;
+  background-size: contain;
+  left: -60px;
+  top: 25px;
+
+}
+  section.company-banner h1 {
+  font-size: 50px;
+  text-transform: uppercase;
+  color: var(--white);
+  font-family: var(--oswald);
+  font-weight: 800;
+}
+  
+  section.company-banner p {
+  color: var(--white);
+  font-family: var(--sanspro);
+  font-size: 16px;
+  max-width: 500px;
+}
+
+/*Company END*/
+
+/*Mission Vision Value*/
+
+section.mission.secPadding.bg-star-left h2 {
+  font-size: 35px;
+  text-align: center;
+}
+
+section.mission.secPadding.bg-star-left p {
+  text-align: center;
+}
+
+section.mission.secPadding.bg-star-left .col-md-6 {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+/*Mission Vision Value END*/
+
+/*Our Leader*/
+
+section.leaders.secPaddingRight.bg-star-right h2 {
+  text-align: center;
+  font-size: 35px;
+}
+
+section.leaders.secPaddingRight.bg-star-right p {
+  text-align: center;
+}
+
+section.leaders.secPaddingRight.bg-star-right .col-md-6 {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+section.leaders.secPaddingRight.bg-star-right .row.align-items-center {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+/*Our Leader END*/
+
+/*Ethics & Compliance*/
+
+section.ethicsCompliance {
+  background-image: url(../img/company/ethnic&compliance.jpg) !important;
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  overflow: hidden;
+  align-items: center;
+  padding: 0px 20px 0px 0px;
+  margin-top: 50px;
+}
+
+section.ethicsCompliance h1 {
+  text-align: right;
+  font-size: 35px;
+  text-transform: uppercase;
+  color: var(--white);
+  font-family: var(--oswald);
+  font-weight: 800;
+}
+
+section.ethicsCompliance p {
+  text-align: right;
+  color: var(--white);
+  font-family: var(--sanspro);
+  font-size: 14px;
+  max-width: 100%;
+}
+
+section.ethicsCompliance:after {
+  position: absolute;
+  content: "";
+  width: 130% !important;
+  height: 100%;
+  background: url(../img/company/rightafter.png) no-repeat center;
+  background-size: 100%;
+  top: 0px;
+  left: 0px;
+}
+
+/*Ethics & Compliance END*/
+
+/*Sustainability*/
+
+section.sustainability{
+  background-image: url(../img/company/sustainability.jpg) !important;
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  overflow: hidden;
+  align-items: center;
+  padding: 0px 0px 0px 20px;
+}
+
+section.sustainability:after {
+  position: absolute;
+  content: "";
+  width: 130% !important;
+  height: 100%;
+  background: url(../img/company/leftafter.png) no-repeat center;
+  background-size: 100%;
+  right: 0;
+  top: 0px;
+}
+
+section.sustainability h1 {
+  text-align: left;
+  font-size: 35px;
+  text-transform: uppercase;
+  color: var(--white);
+  font-family: var(--oswald);
+  font-weight: 800;
+}
+
+section.sustainability p {
+  text-align: left;
+  color: var(--white);
+  font-family: var(--sanspro);
+  font-size: 14px;
+  max-width: 100%;
+
+/*Sustainability END*/
+
+/*Diversity*/
+
+section.diversity.bg-star-left .content .content-card h2 {
+  font-size: 35px !important;
+}
+
+/*Diversity END*/
+
+/*Contract Vehicles*/
+
+section.contract-vehicles.bg-star-right .content .content-card h2 {
+  font-size: 35px !important;
+}
+
+/*Contract Vehicles END*/
+
+/*Company Page END*/
+
+  }
+  @media (max-width:370px){
+    nav .navbar .nav-links{
+    max-width: 100%;
+  } 
+  }
