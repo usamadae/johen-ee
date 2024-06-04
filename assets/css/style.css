@@ -2378,8 +2378,9 @@ section.specifc-asia {
 }
 
 section#section4 .nav{
-    width: 30%;
+    width: 45%;
     margin: 0 !important;
+    flex-wrap: nowrap;
 }
 
 section#section4 div#v-pills-tabContent{
@@ -2406,17 +2407,43 @@ section#section4 .tab-pane{
     padding: 40px;
     height: 100%;
 }
-section#section4 .nav button svg {
-    margin-right: 15px;
+section#section4 .nav button svg{
+    background-color: white;
+    transition: 0.3s linear all;
 }
+
+section#section4 .nav button:hover svg{
+    height: 200px;
+}
+
+section#section4 .nav button.diversity svg{
+    background-color: black;
+    transition: 0.3s linear all;
+}
+
+section#section4 .nav button.diversity:hover svg{
+    height: 70px;
+}
+
+
+
 section#section4 .nav button {
-    text-align: left;
+
     font-size: 26px;
     font-weight: 500;
     padding: 20px 30px;
     font-family: var(--oswald);
     border-radius: 0;
     color: white;
+    width: auto;
+    writing-mode: vertical-lr;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    transform: rotate(-180deg);
+    text-align: right;
+    justify-content: flex-start;
+    flex-direction: row-reverse;
 }
 .anyfeedback{
     font-size: 100px !important;

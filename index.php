@@ -240,7 +240,7 @@
     <section id="section4" class="bg-white bg-padding bg-star-left-black">
         <div class="container">
             <div class="d-flex align-items-stretch">
-                <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                <div class="nav flex-row nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 
                     <button class="nav-link active" id="v-pills-profile-tab" style="background-color:#03072B"
                         data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab"
@@ -267,7 +267,7 @@
                         </svg>
                         What We Do
                     </button>
-                    <button class="nav-link" id="v-pills-diversity-tab" style="background-color:#F3F3F3; color:black;"
+                    <button class="nav-link diversity" id="v-pills-diversity-tab" style="background-color:#F3F3F3; color:black;"
                         data-bs-toggle="pill" data-bs-target="#v-pills-diversity" type="button" role="tab"
                         aria-controls="v-pills-diversity" aria-selected="false">
                         <svg width="4" height="54" viewBox="0 0 4 54" fill="none" xmlns="http://www.w3.org/2000/svg">
