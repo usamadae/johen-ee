@@ -2412,12 +2412,34 @@ section#section4 .nav button svg{
     transition: 0.3s linear all;
 }
 
+
+.whatwe svg{
+    background-color: black !important;
+}
+
+ul.list-group.list-group-flush li {
+    background-color: transparent;
+}
+
+ul.list-group.list-group-flush {
+    height: auto;
+}
+section#section4 h2 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+li.list-group-item a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+}
 section#section4 .nav button:hover svg{
     height: 200px;
 }
 
 section#section4 .nav button.diversity svg{
-    background-color: black;
+
     transition: 0.3s linear all;
 }
 

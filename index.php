@@ -239,6 +239,7 @@
 
     <section id="section4" class="bg-white bg-padding bg-star-left-black">
         <div class="container">
+        <h2 class="sectionHead">How Can <span>We Help</span></h2>
             <div class="d-flex align-items-stretch">
                 <div class="nav flex-row nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 
@@ -259,19 +260,21 @@
                             <rect x="4" width="54" height="4" rx="2" transform="rotate(90 4 0)" fill="white" />
                         </svg>
                         Who We Are</button>
-                    <button class="nav-link" id="v-pills-settings-tab" style="background-color:#1E49E2"
-                        data-bs-toggle="pill" data-bs-target="#v-pills-settings" type="button" role="tab"
-                        aria-controls="v-pills-settings" aria-selected="false">
+                    <button class="nav-link whatwe" id="v-pills-settings-tab"
+                        style="background-color:#F3F3F3; color:black;" data-bs-toggle="pill"
+                        data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings"
+                        aria-selected="false">
                         <svg width="4" height="54" viewBox="0 0 4 54" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <rect x="4" width="54" height="4" rx="2" transform="rotate(90 4 0)" fill="white" />
+                            <rect x="4" width="54" height="4" rx="2" transform="rotate(90 4 0)" fill="black" />
                         </svg>
+
                         What We Do
                     </button>
-                    <button class="nav-link diversity" id="v-pills-diversity-tab" style="background-color:#F3F3F3; color:black;"
+                    <button class="nav-link diversity" id="v-pills-diversity-tab" style="background-color:#1E49E2;"
                         data-bs-toggle="pill" data-bs-target="#v-pills-diversity" type="button" role="tab"
                         aria-controls="v-pills-diversity" aria-selected="false">
                         <svg width="4" height="54" viewBox="0 0 4 54" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <rect x="4" width="54" height="4" rx="2" transform="rotate(90 4 0)" fill="black" />
+                            <rect x="4" width="54" height="4" rx="2" transform="rotate(90 4 0)" fill="white" />
                         </svg>
 
                         Diversity, Equity & Inclusion
@@ -349,19 +352,69 @@
 
                         " href="#">Learn More</a>
                     </div>
-                    <div class="tab-pane fade" style="background-color:#1E49E2" id="v-pills-settings" role="tabpanel"
+                    <div class="tab-pane fade" style="background-color:#F3F3F3" id="v-pills-settings" role="tabpanel"
                         aria-labelledby="v-pills-settings-tab" tabindex="0">
-                        <h3>What We Do</h3>
+                        <h3 class="text-dark">What We Do</h3>
+                        <svg width="100" height="4" viewBox="0 0 305 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <rect width="305" height="4" rx="2" fill="black" />
+                        </svg>
+
+
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <a href="#">Technology</a>
+                            </li>
+                            <li class="list-group-item">
+                                <a href="#">Business</a>
+                            </li>
+                            <li class="list-group-item">
+                                <a href="#">Enginneering</a>
+                            </li>
+                            <li class="list-group-item">
+                                <a href="#">
+                                    Mission
+                                </a>
+                            </li>
+                            <li class="list-group-item">
+                                <a href="#">
+                                    Consulting
+                                </a>
+                            </li>
+                        </ul>
+
+                        <a style="
+                        background-color: #CBCBCB;
+    border: 1px solid black;
+    color: black;
+    text-decoration: none;
+    padding: 10px 40px;
+    font-weight:600;
+    display: inline-block;
+    margin-top: 10px;
+
+                        " href="#">Learn More</a>
+
+                    </div>
+                    <div class="tab-pane fade" style="background-color:#1E49E2" id="v-pills-diversity" role="tabpanel"
+                        aria-labelledby="v-pills-diversity-tab" tabindex="0">
+                        <h3>Diversity, Equity & Inclusion</h3>
+
                         <svg width="137" height="4" viewBox="0 0 137 4" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <rect width="137" height="4" rx="2" fill="white" />
                         </svg>
 
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                            galley of type and scrambled it to make a type specimen book. It has survived not only five
-                            centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting
+                            industry. Lorem Ipsum has
+                            been the industry's standard dummy text ever since the 1500s, when an unknown printer
+                            took a
+                            galley of type and scrambled it to make a type specimen book. It has survived not only
+                            five
+                            centuries, but also the leap into electronic typesetting, remaining essentially
+                            unchanged.
+                            It was popularised in the 1960s with the release of Letraset sheets containing Lorem
+                            Ipsum
                             passages,</p>
+
 
                         <a style="
                         background-color: #032FCD;
@@ -369,39 +422,6 @@
     color: white;
     text-decoration: none;
     padding: 10px 40px;
-    display: inline-block;
-    margin-top: 10px;
-
-                        " href="#">Learn More</a>
-                    </div>
-                    <div class="tab-pane fade" style="background-color:#F3F3F3" id="v-pills-diversity" role="tabpanel"
-                        aria-labelledby="v-pills-diversity-tab" tabindex="0">
-                        <h3 class="text-dark">Diversity, Equity & Inclusion</h3>
-                            <svg width="305" height="4" viewBox="0 0 305 4" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <rect width="305" height="4" rx="2" fill="black" />
-                            </svg>
-
-
-                            <p class="text-dark">Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has
-                                been the industry's standard dummy text ever since the 1500s, when an unknown printer
-                                took a
-                                galley of type and scrambled it to make a type specimen book. It has survived not only
-                                five
-                                centuries, but also the leap into electronic typesetting, remaining essentially
-                                unchanged.
-                                It was popularised in the 1960s with the release of Letraset sheets containing Lorem
-                                Ipsum
-                                passages,</p>
-
-                            <a style="
-                        background-color: #CBCBCB;
-    border: 1px solid black;
-    color: black;
-    text-decoration: none;
-    padding: 10px 40px;
-    font-weight:600;
     display: inline-block;
     margin-top: 10px;
 
@@ -433,8 +453,8 @@
 
                         " href="#">Learn More</a>
                     </div>
-                    <div class="tab-pane fade" style="background-color:black" id="v-pills-Sustainability" role="tabpanel"
-                        aria-labelledby="v-pills-Sustainability-tab" tabindex="0">
+                    <div class="tab-pane fade" style="background-color:black" id="v-pills-Sustainability"
+                        role="tabpanel" aria-labelledby="v-pills-Sustainability-tab" tabindex="0">
                         <h3>Sustainability</h3>
                         <svg width="137" height="4" viewBox="0 0 137 4" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <rect width="137" height="4" rx="2" fill="white" />
