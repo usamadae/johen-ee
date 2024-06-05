@@ -2416,7 +2416,9 @@ section#section4 .nav button svg{
 .whatwe svg{
     background-color: black !important;
 }
-
+li.list-group-item a svg {
+    margin-left: 5px;
+}
 ul.list-group.list-group-flush li {
     background-color: transparent;
 }

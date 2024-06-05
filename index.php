@@ -362,38 +362,56 @@
 
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item">
-                                <a href="#">Technology</a>
+                                <a href="#">Technology <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2"/>
+  <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2"/>
+  <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2"/>
+</svg>
+
+
+</a>
                             </li>
                             <li class="list-group-item">
-                                <a href="#">Business</a>
+                                <a href="#">Business
+                                <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2"/>
+  <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2"/>
+  <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2"/>
+</svg>
+                                </a>
                             </li>
                             <li class="list-group-item">
-                                <a href="#">Enginneering</a>
+                                <a href="#">Enginneering
+                                <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2"/>
+  <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2"/>
+  <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2"/>
+</svg>
+                                </a>
                             </li>
                             <li class="list-group-item">
                                 <a href="#">
                                     Mission
+                                    <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2"/>
+  <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2"/>
+  <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2"/>
+</svg>
                                 </a>
                             </li>
                             <li class="list-group-item">
                                 <a href="#">
                                     Consulting
+                                    <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2"/>
+  <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2"/>
+  <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2"/>
+</svg>
                                 </a>
                             </li>
                         </ul>
 
-                        <a style="
-                        background-color: #CBCBCB;
-    border: 1px solid black;
-    color: black;
-    text-decoration: none;
-    padding: 10px 40px;
-    font-weight:600;
-    display: inline-block;
-    margin-top: 10px;
-
-                        " href="#">Learn More</a>
-
+                       
                     </div>
                     <div class="tab-pane fade" style="background-color:#1E49E2" id="v-pills-diversity" role="tabpanel"
                         aria-labelledby="v-pills-diversity-tab" tabindex="0">
