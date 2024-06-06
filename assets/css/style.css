@@ -707,6 +707,15 @@ section#section4 .block-content img {
     z-index: 1;
     position: relative;
 }
+
+
+.ctaSec-2 {
+    background: url('../img/assets/cta-bg.jpg') no-repeat center;
+    background-size: cover;
+    padding: 50px 0;
+    z-index: 1;
+    position: relative;
+}
 section.bg-shape{
     background: url('../img/assets/bg-shape.jpg') no-repeat center;
     background-size: cover;
@@ -2059,6 +2068,7 @@ section.realeated-capability h3 {
     text-align: center;
     font-family: var(--oswald);
     margin: 20px 0;
+    text-transform: uppercase;
 }
 
 section.realeated-capability p{
@@ -2490,6 +2500,34 @@ section#section4 .nav button {
 
 .company-overview-video .videoWrapper{
     border-radius:50px ;
+}
+
+.overview-team h3{
+    font-family: var(--oswald);
+    font-weight: bold;
+    color: white;
+    font-size: 58px;
+    text-transform: uppercase;
+}
+
+section.over-there .block-box{
+padding: 20px 10px;
+}
+.overview-team p{
+    font-family: var(--sanspro);
+  
+    color: white;
+    font-size: 22px;
+    margin-top: 20px;
+
+}
+
+h3.over-h3 {
+    text-align: right;
+    font-style: italic;
+    font-size: 34px;
+    font-weight: 400;
+    padding-right: 30px;
 }
 
 @media (pointer: coarse) {
