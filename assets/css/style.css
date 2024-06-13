@@ -2064,7 +2064,7 @@ section.realeated-capability h3 {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: bold;
-    font-size: 32px;
+    font-size: 22px;
     text-align: center;
     font-family: var(--oswald);
     margin: 20px 0;
@@ -2509,7 +2509,10 @@ section#section4 .nav button {
     font-size: 58px;
     text-transform: uppercase;
 }
-
+.over-there {
+    padding-left: 80px !important;
+    padding-right: 80px !important;
+}
 section.over-there .block-box{
 padding: 20px 10px;
 }
@@ -2521,13 +2524,74 @@ padding: 20px 10px;
     margin-top: 20px;
 
 }
+.histry {
+   text-align: end;
+    padding-top: 88px;
+    padding-right: 40px;
 
+}
 h3.over-h3 {
     text-align: right;
     font-style: italic;
     font-size: 34px;
     font-weight: 400;
     padding-right: 30px;
+}
+.headeing-left h3 {
+    padding-left: 30px;
+}
+
+button.expertires-btn {
+    font-size: 18px;
+    border: 1px solid var(--blue);
+    padding: 5px 20px;
+    border-radius: 20px;
+    font-family: var(--sanspro);
+    font-weight: 600;
+    background-color: transparent;
+}
+
+.experties-div{
+    display: inline-flex;
+    flex-flow: column;
+    gap: 10px;
+}
+.experiesss h3 {
+    background: -webkit-linear-gradient(308deg, #00FFFF, #1978BC);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    font-size: 31px;
+    text-align: center;
+    font-family: var(--oswald);
+    margin: 20px 0;
+    text-transform: uppercase;
+}
+.experiesss img{
+    width: 100%;
+}
+.experiesss p{
+        font-size: 18px !important;
+    line-height:26px !important;
+    font-weight: 400;
+    text-align: center;
+    font-family: var(--sanspro);
+    color: black;
+}
+
+.link-btn {
+    display: flex;
+    justify-content: center;
+}
+
+
+.exp-newx{
+    background-image: url('../img/assets/news-experties.png');
+    background-size: cover;
+}
+
+.exp-newx h3 , .exp-newx h2{
+    color: white !important;
 }
 
 @media (pointer: coarse) {
