@@ -210,6 +210,9 @@
     })
 
     $(document).ready(function(){
+
+      
+
         $(".language-switcher nav ul li a").click(function() {
             var language = $(this).data("lang"); // Get the value of data-lang attribute
             $("#lang-open option").text(language); // Insert the language value into the div

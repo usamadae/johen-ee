@@ -1214,7 +1214,9 @@ ul.navbar-nav li i {
     pointer-events: all;
     width: 2.61111rem;
 }
-
+.hidden-para {
+    display: none;
+}
 .fullpage-navigation__item {
     background-color: transparent;
  
@@ -1228,7 +1230,16 @@ ul.navbar-nav li i {
 .fullpage-navigation__item--active {
     background-color: #e40000;
 }
+.list_toggle_flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 
+.list_toggle_flex svg {
+    fill: #0bc0df;
+    cursor: pointer;
+}
 .fullpage-navigation__item a, .fullpage-navigation__item button {
     color: #fff;
     font-family: Source Sans\ 3, Calibri, Geneva, sans-serif;
@@ -2064,7 +2075,7 @@ section.realeated-capability h3 {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 20px;
     text-align: center;
     font-family: var(--oswald);
     margin: 20px 0;
@@ -2526,7 +2537,7 @@ padding: 20px 10px;
 }
 .histry {
    text-align: end;
-    padding-top: 88px;
+    padding-top: 160px;
     padding-right: 40px;
 
 }
