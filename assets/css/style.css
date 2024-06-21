@@ -2535,6 +2535,16 @@ padding: 20px 10px;
     margin-top: 20px;
 
 }
+
+.histry-detrails svg {
+    position: absolute;
+    left: -42px;
+    top:20px;
+}
+
+.histry-detrails {
+    position:relative;
+}git 
 .histry {
    text-align: end;
     padding-top: 160px;
