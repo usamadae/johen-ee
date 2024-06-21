@@ -450,25 +450,28 @@
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
                    <div class="hidden-para" id="para4">
                    <h3 class="section_head2 histry-detrails mt-5">
-                   <svg width="30" height="30" viewBox="0 0 1266 1411" fill="#0bc0df" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 0L1266 705.5L0 1411" fill="#0bc0df"/>
+                   <svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 140 140" fill="none">
+<circle cx="70" cy="70" r="67.5" stroke="#0bc0df" stroke-width="5"/>
 </svg>
  
                    Lorem Ipsum is simply dummy</h3>
                     <h3 class="section_head2 histry-detrails mt-5">
-                    <svg width="30" height="30" viewBox="0 0 1266 1411" fill="#0bc0df" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 0L1266 705.5L0 1411" fill="#0bc0df"/>
-</svg>    
+           <svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 140 140" fill="none">
+<circle cx="70" cy="70" r="67.5" stroke="#0bc0df" stroke-width="5"/>
+</svg>
+ 
                     Lorem Ipsum is simply dummy</h3>
                     <h3 class="section_head2 histry-detrails mt-5">
-                    <svg width="30" height="30" viewBox="0 0 1266 1411" fill="#0bc0df" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 0L1266 705.5L0 1411" fill="#0bc0df"/>
-</svg>    
+           <svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 140 140" fill="none">
+<circle cx="70" cy="70" r="67.5" stroke="#0bc0df" stroke-width="5"/>
+</svg>
+ 
                     Lorem Ipsum is simply dummy</h3>
                     <h3 class="section_head2 histry-detrails mt-5">
-                    <svg width="30" height="30" viewBox="0 0 1266 1411" fill="#0bc0df" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 0L1266 705.5L0 1411" fill="#0bc0df"/>
-</svg>    
+           <svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 140 140" fill="none">
+<circle cx="70" cy="70" r="67.5" stroke="#0bc0df" stroke-width="5"/>
+</svg>
+ 
                     Lorem Ipsum is simply dummy</h3>
                    </div>
 
