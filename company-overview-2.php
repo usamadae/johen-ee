@@ -111,7 +111,7 @@
                             <h3 class="over-h3">What We Believe</h3>
                         </div>
                         <div class="toggle-para" data-target="para1">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                            <svg id="toggle-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                 <path d="M24 10h-10v-10h-4v10h-10v4h10v10h4v-10h10z"></path>
                             </svg>
                         </div>
@@ -205,7 +205,7 @@
                         <h3 class="over-h3">Who We Are</h3>
                         </div>
                         <div class="toggle-para" data-target="para2">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                            <svg id="toggle-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                 <path d="M24 10h-10v-10h-4v10h-10v4h10v10h4v-10h10z"></path>
                             </svg>
                         </div>
@@ -222,7 +222,7 @@
 
 
                     <section class="realeated-capability hidden-para" id="para2">
-                        <div class="row g-3 pt-5" bis_skin_checked="1">
+                        <div class="row justify-content-center g-3 pt-5" bis_skin_checked="1">
                             <div class="col-lg-4" bis_skin_checked="1">
                                 <div class="block-box" bis_skin_checked="1">
                                     <img src="assets/img/assets/contractvehicles1.png" alt="icon">
@@ -243,32 +243,11 @@
                                     <a class="defaultBtn mt-2" href="#">Read more</a>
                                 </div>
                             </div>
-                            <div class="col-lg-4" bis_skin_checked="1">
-                                <div class="block-box" bis_skin_checked="1">
-                                    <img src="assets/img/assets/sustainability.png" alt="icon">
-                                    <h3>sustainability</h3>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard
-
-                                    </p>
-                                    <a class="defaultBtn mt-2" href="#">Read more</a>
-                                </div>
-                            </div>
+                         
 
                             <div class="row justify-content-center g-3 pt-3 m-0">
-                                <div class="col-lg-4" bis_skin_checked="1">
-                                    <div class="block-box" bis_skin_checked="1">
-                                        <img src="assets/img/assets/globaling.png" alt="icon">
-                                        <h3>global</h3>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            Lorem
-                                            Ipsum has been the industry's standard
 
-                                        </p>
-                                        <a class="defaultBtn mt-2" href="#">Read more</a>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4" bis_skin_checked="1">
+                            <div class="col-lg-4" bis_skin_checked="1">
                                     <div class="block-box" bis_skin_checked="1">
                                         <img src="assets/img/assets/diversity.png" alt="icon">
                                         <h3>diversity , equity and
@@ -282,10 +261,35 @@
                                         <a class="defaultBtn mt-2" href="#">Read more</a>
                                     </div>
                                 </div>
+                            <div class="col-lg-4" bis_skin_checked="1">
+                                <div class="block-box" bis_skin_checked="1">
+                                    <img src="assets/img/assets/sustainability.png" alt="icon">
+                                    <h3>sustainability</h3>
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
+                                        Ipsum has been the industry's standard
+
+                                    </p>
+                                    <a class="defaultBtn mt-2" href="#">Read more</a>
+                                </div>
+                            </div>
+                               
+                               
                                 <div class="col-lg-4" bis_skin_checked="1">
                                     <div class="block-box" bis_skin_checked="1">
                                         <img src="assets/img/assets/contractvehicles1.png" alt="icon">
                                         <h3>contract vehicles</h3>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                            Lorem
+                                            Ipsum has been the industry's standard
+
+                                        </p>
+                                        <a class="defaultBtn mt-2" href="#">Read more</a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4" bis_skin_checked="1">
+                                    <div class="block-box" bis_skin_checked="1">
+                                        <img src="assets/img/assets/globaling.png" alt="icon">
+                                        <h3>global</h3>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                             Lorem
                                             Ipsum has been the industry's standard
@@ -328,7 +332,7 @@
                         <h3 class="over-h3">What We Do</h3>
                         </div>
                         <div class="toggle-para" data-target="para3">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                            <svg id="toggle-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                 <path d="M24 10h-10v-10h-4v10h-10v4h10v10h4v-10h10z"></path>
                             </svg>
                         </div>
@@ -430,7 +434,7 @@
                         <h3 class="over-h3">Our History</h3>
                         </div>
                         <div class="toggle-para" data-target="para4,para4_5">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                            <svg id="toggle-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                 <path d="M24 10h-10v-10h-4v10h-10v4h10v10h4v-10h10z"></path>
                             </svg>
                         </div>
@@ -495,11 +499,11 @@
                         <div>
                         <h3 class="over-h3">Who We Serve</h3>
                         </div>
-                        <div class="toggle-para" data-target="para5">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                        <!-- <div class="toggle-para" data-target="para5">
+                            <svg id="toggle-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                 <path d="M24 10h-10v-10h-4v10h-10v4h10v10h4v-10h10z"></path>
                             </svg>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-lg-9 border-start-pad" bis_skin_checked="1">
@@ -509,7 +513,7 @@
 
                    
 
-                    <div class="hidden-para"  id="para5">
+                    <div>
                     <div class="row pt-5">
                         <div class="col-lg-6">
                             <div class="experties-div">
@@ -556,7 +560,7 @@
 
                         <div class="col-lg-6 experiesss">
                             <div class="block">
-                                <img class="img-fluid" src="assets/img/assets/experties.png" alt="image">
+                                <img class="img-fluid" id="img-expertise" src="assets/img/assets/experties-automotive.png" alt="image">
                                 <h3 id="btn-text">automotive</h3>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                                     Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
@@ -1369,15 +1373,30 @@
             var buttonText = $(this).text();
            
             $('#btn-text').text(buttonText);
+            var buttonText = $(this).text().toLowerCase().replace(/\s+/g, ''); // Convert to lowercase and remove spaces
+
+              // Assuming your images are named following a pattern like "experties-<buttonText>.png"
+    var newSrc = 'assets/img/assets/experties-' + buttonText + '.png';
+
+$('#img-expertise').attr('src', newSrc); // Update the src attribute of the image
         });
 
-
         $('.toggle-para').click(function() {
-                var targets = $(this).data('target').split(',');
-                targets.forEach(function(target) {
-                    $('#' + target.trim()).slideToggle();
-                });
-            });
+        var targets = $(this).data('target').split(',');
+        targets.forEach(function(target) {
+            $('#' + target.trim()).slideToggle();
+        });
+
+        // Toggle SVG icon between plus and minus
+        var $icon = $(this).find('#toggle-icon');
+        var $path = $('path', $icon);
+
+        if ($path.attr('d') === "M24 10h-10v-10h-4v10h-10v4h10v10h4v-10h10z") {
+            $path.attr('d', 'M24 14h-20v-4h20z');
+        } else {
+            $path.attr('d', 'M24 10h-10v-10h-4v10h-10v4h10v10h4v-10h10z');
+        }
+    });
     });
     </script>
 </body>

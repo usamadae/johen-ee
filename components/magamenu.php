@@ -104,12 +104,12 @@ const megamenus = {
         },
         items: [{
                 label: 'Company Overview',
-                link: '#',
+                link: '/hpit-new/company-overview-2.php',
                 icon: 'mega1.svg'
             },
             {
                 label: 'Our Leaders',
-                link: '#',
+                link: '/hpit-new/our-leaders.php',
                 icon: 'mega2.svg'
             },
             {
