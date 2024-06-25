@@ -37,10 +37,10 @@
                 Ipsum has been the industry's standard dummy text ever since the 1500s</p>
 
             <div class="d-flex justify-content-between leader-btn-width">
-                <div><a class="defaultBtn mt-3" href="/hpit-new/our-leaders.php#executive-team">EXECUTIVE TEAM</a></div>
-                <div><a class="defaultBtn mt-3" href="/hpit-new/our-leaders.php#board-of-directors">BOARD OF DIRECTORS
+                <div><a class="defaultBtn mt-3" href="#executive-team">EXECUTIVE TEAM</a></div>
+                <div><a class="defaultBtn mt-3" href="#board-of-directors">BOARD OF DIRECTORS
                     </a></div>
-                <div><a class="defaultBtn mt-3" href="/hpit-new/our-leaders.php#advisory-board">Advisory Board</a></div>
+                <div><a class="defaultBtn mt-3" href="#advisory-board">Advisory Board</a></div>
             </div>
         </div>
     </section>
