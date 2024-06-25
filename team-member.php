@@ -91,7 +91,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <h2 class="sectionHead">Explore Our <span>latest insights</span></h2>
-                </div </div>
+                
                 <div class="row">
                     <div class="col-md-4">
                         <h3>Press Release</h3>
