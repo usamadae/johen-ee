@@ -26,12 +26,12 @@
            <div>
            <h3 id="menu-title">Who We Are</h3>
           <ul id="submenu">
-            <li><a href="#">Company Overview</a></li>
-            <li><a href="#">Our Leaders</a></li>
+            <li><a href="company-overview-2.php">Company Overview</a></li>
+            <li><a href="our-leaders.php">Our Leaders</a></li>
             <li><a href="#">Ethics &amp; Compliance</a></li>
             <li><a href="#">Sustainability</a></li>
             <li><a href="#">Diversity, Equity And Inclusion</a></li>
-            <li><a href="#">Contract Vehicles</a></li>
+            <li><a href="contract-vehicles.php">Contract Vehicles</a></li>
             <li><a href="#">Partnership</a></li>
             <li><a href="global.php">Global</a></li>
           </ul>
@@ -57,14 +57,14 @@
       company: {
         title: 'Who We Are',
         items: [
-          { label: 'Mission, Vision and Values', link: '#' },
-          { label: 'Our Leaders', link: '#' },
+          { label: 'Company Overview', link: 'company-overview-2.php' },
+          { label: 'Our Leaders', link: 'our-leaders.php' },
           { label: 'Ethics & Compliance', link: '#' },
           { label: 'Sustainability', link: '#' },
           { label: 'Diversity, Equity And Inclusion', link: '#' },
-          { label: 'Contract Vechicles', link: '#' },
+          { label: 'Contract Vechicles', link: 'contract-vehicles.php' },
           { label: 'Partnership', link: '#' },
-          { label: 'Global', link: '#' }
+          { label: 'Global', link: 'global.php' }
         ]
       },
       capabilities: {

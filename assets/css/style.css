@@ -2642,6 +2642,73 @@ section.leadership_btns p{
     font-family: var(--sanspro);
 }
 
+.teamcontent {
+    display: flex;
+    align-items: center;
+    background-color: #F3F3F3;
+    box-shadow: 0px 4px 29.6px rgb(41 41 41 / 25%);
+   margin-bottom: 20px;
+    padding: 10px;
+}
+
+
+.team_card h4{
+    font-family: var(--oswald);
+    font-size: 22px;
+
+}
+
+.team_card p{
+    font-family: var(--sanspro);
+    font-size: 18px;
+
+}
+.teamcontent .teamimg {
+    width: 40%;
+}
+
+
+.teamcontent .teamimg img{
+    width:100%;
+    height:200px;
+    object-fit:contain;
+}
+
+.our-team-leaders h3{
+    font-family: var(--oswald);
+   
+    font-size: 38px;
+}
+
+.our-team-leaders h2{
+    font-family: var(--oswald);
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+.leaders-img-team img {
+    width: 250px;
+}
+
+.team-socail h5 {
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+
+.team-socail a {
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+}
+
+.team-socail svg{
+    fill:#fe0000;
+    margin-right:10px;
+}
+
+.team-socail {
+    border-left: 2px solid;
+    padding-left: 20px;
+}
 @media (pointer: coarse) {
     #js-pointer-detector {
         display: block;

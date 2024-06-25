@@ -36,7 +36,7 @@
                         the industry's standard dummy text ever since the 1500s,Lorem Ipsum is simply dummy text of the
                         printing .
                     </p>
-                    <a class="defaultBtn mt-3" href="#">Learn more</a>
+                    <a class="defaultBtn mt-3" href="company-overview-2.php">Learn more</a>
                 </div>
             </div>
         </div>
@@ -51,7 +51,7 @@
                         the industry's standard dummy text ever since the 1500s,Lorem Ipsum is simply dummy text of the
                         printing .
                     </p>
-                    <a class="defaultBtn mt-3" href="#">Learn more</a>
+                    <a class="defaultBtn mt-3" href="our-leaders.php">Learn more</a>
                 </div>    
             <div class="col-md-6">
                     <img class="w-100" src="assets/img/company/ourleaders.png" alt="Our Leader">
@@ -115,7 +115,7 @@ Compliance</h1>
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
                         the industry's standard dummy text ever since the 1500s,
                     </p>
-                    <a class="defaultBtn mt-3" href="#">Learn more</a>
+                    <a class="defaultBtn mt-3" href="contract-vehicles.php">Learn more</a>
                     </div>
                 </div>    
             <div class="content-image">
@@ -145,7 +145,7 @@ Compliance</h1>
                     <h1>Global</h1>
                     <p class="mt-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                         Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-                    <a class="defaultBtn mt-3" href="#">Learn more</a>
+                    <a class="defaultBtn mt-3" href="global.php">Learn more</a>
                 </div>
             </div>
         </div>

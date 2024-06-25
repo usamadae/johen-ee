@@ -499,11 +499,11 @@
                         <div>
                         <h3 class="over-h3">Who We Serve</h3>
                         </div>
-                        <!-- <div class="toggle-para" data-target="para5">
+                        <div class="toggle-para" data-target="para5">
                             <svg id="toggle-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                 <path d="M24 10h-10v-10h-4v10h-10v4h10v10h4v-10h10z"></path>
                             </svg>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-9 border-start-pad" bis_skin_checked="1">
@@ -513,9 +513,9 @@
 
                    
 
-                    <div>
+                    <div class="hidden-para" id="para5">
                     <div class="row pt-5">
-                        <div class="col-lg-6">
+                        <div class="col-lg-4">
                             <div class="experties-div">
                                 <div class="expertise-item">
                                     <button class="expertires-btn">Automotive</button>
@@ -569,6 +569,7 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-lg-2"></div>
                     </div>
                     </div>
                 </div>

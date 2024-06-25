@@ -276,7 +276,7 @@ const megamenus2 = {
             },
             {
                 label: 'Contract Vehicles',
-                link: '#',
+                link: '/hpit-new/contract-vehicles.php',
                 icon: 'mega6.svg'
             },
             {
@@ -286,7 +286,7 @@ const megamenus2 = {
             },
             {
                 label: 'Global',
-                link: 'global.php',
+                link: '/hpit-new/global.php',
                 icon: 'mega8.svg'
             }
         ]
