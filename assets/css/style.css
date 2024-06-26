@@ -2659,14 +2659,17 @@ section.leadership_btns p{
 }
 
 .team_card p{
-    font-family: var(--sanspro);
-    font-size: 18px;
+    font-family: var(--sanspro) !important;
+    font-size: 18px !important;
+    line-height: 28px !important;
 
 }
 .teamcontent .teamimg {
     width: 40%;
 }
-
+.team_card {
+    width: 60%;
+}
 
 .teamcontent .teamimg img{
     width:100%;
@@ -2708,6 +2711,16 @@ section.leadership_btns p{
 .team-socail {
     border-left: 2px solid;
     padding-left: 20px;
+}
+
+
+.bg-white-team{
+    background-color: white !important;
+}
+
+
+.single_team_banner h1 , .single_team_banner h2{
+    color: white;
 }
 @media (pointer: coarse) {
     #js-pointer-detector {

@@ -104,12 +104,12 @@ const megamenus = {
         },
         items: [{
                 label: 'Company Overview',
-                link: '/hpit-new/company-overview-2.php',
+                link: 'company-overview-2.php',
                 icon: 'mega1.svg'
             },
             {
                 label: 'Our Leaders',
-                link: '/hpit-new/our-leaders.php',
+                link: 'our-leaders.php',
                 icon: 'mega2.svg'
             },
             {
@@ -276,17 +276,17 @@ const megamenus2 = {
             },
             {
                 label: 'Contract Vehicles',
-                link: '/hpit-new/contract-vehicles.php',
+                link: 'contract-vehicles.php',
                 icon: 'mega6.svg'
             },
             {
                 label: 'Partnership',
-                link: '#',
+                link: 'partnership.php',
                 icon: 'mega7.svg'
             },
             {
                 label: 'Global',
-                link: '/hpit-new/global.php',
+                link: 'global.php',
                 icon: 'mega8.svg'
             }
         ]

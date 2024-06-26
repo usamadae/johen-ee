@@ -132,7 +132,7 @@ Compliance</h1>
                     <h1>Partnership</h1>
                     <p class="mt-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                         Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-                    <a class="defaultBtn mt-3" href="#">Learn more</a>
+                    <a class="defaultBtn mt-3" href="partnership.php">Learn more</a>
                 </div>
             </div>
         </div>

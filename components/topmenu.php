@@ -32,7 +32,7 @@
             <li><a href="#">Sustainability</a></li>
             <li><a href="#">Diversity, Equity And Inclusion</a></li>
             <li><a href="contract-vehicles.php">Contract Vehicles</a></li>
-            <li><a href="#">Partnership</a></li>
+            <li><a href="partnership.php">Partnership</a></li>
             <li><a href="global.php">Global</a></li>
           </ul>
            </div>
@@ -63,7 +63,7 @@
           { label: 'Sustainability', link: '#' },
           { label: 'Diversity, Equity And Inclusion', link: '#' },
           { label: 'Contract Vechicles', link: 'contract-vehicles.php' },
-          { label: 'Partnership', link: '#' },
+          { label: 'Partnership', link: 'partnership.php' },
           { label: 'Global', link: 'global.php' }
         ]
       },
