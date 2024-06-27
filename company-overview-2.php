@@ -66,7 +66,7 @@
             </div>
 
 
-            <div class="row py-5 company-overview-video">
+            <!-- <div class="row py-5 company-overview-video">
                 <div class="video">
                     <span class="home-video-close is-hidden" onclick="videoStop()">&times;</span>
                     <div class="videoWrapper videoWrapper169 js-videoWrapper">
@@ -81,7 +81,7 @@
 
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
 

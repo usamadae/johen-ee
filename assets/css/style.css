@@ -2722,6 +2722,41 @@ section.leadership_btns p{
 .single_team_banner h1 , .single_team_banner h2{
     color: white;
 }
+
+.contact-us h2 {
+    text-transform: capitalize;
+    font-size: 36px;
+    font-family: var(--oswald);
+}
+
+
+.contact-us h5 {
+    text-transform: capitalize;
+    font-size: 28px;
+    font-family: var(--oswald);
+}
+
+.contact-us p {
+
+    font-size: 22px !important;
+    font-family: var(--sanspro);
+}
+
+.contact-us label {
+        font-size: 18px;
+    color:black;
+    font-family: var(--sanspro);
+}
+
+
+.contact-us input , .contact-us select , .contact-us textarea  {
+    border-color:black !important;
+}
+
+.contact-btn {
+    background-color: #fe0000;
+    border-color: #fe0000;
+}
 @media (pointer: coarse) {
     #js-pointer-detector {
         display: block;

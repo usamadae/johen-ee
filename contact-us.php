@@ -30,7 +30,7 @@
     </section>
 
 
-    <section class="leadership_btns bg-white-team pt-lg-5 pb-lg-5 leaders-img-team">
+    <section class="leadership_btns bg-white-team pt-lg-5 pb-lg-5 leaders-img-team contact-us">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
@@ -180,7 +180,7 @@
 </div>
                         </div>
 
-                        <button type="submit" class="btn btn-primary mt-3">Send Message</button>
+                        <button type="submit" class="btn btn-primary contact-btn mt-3">Send Message</button>
                     </form>
                 </div>
                 <div class="col-lg-4">
@@ -188,7 +188,13 @@
                         <h5>RFP</h5>
                         <p>Submit a request for proposal (RFP) to Grant Thornton LLP, the U.S. member firm of Grant Thornton International Ltd (GTIL).</p>
 
-                        <a class="defaultBtn mt-3" href="#">Submit RFP</a>
+                        <a class="defaultBtn mt-3 text-white" href="#">Submit RFP</a>
+                    </div>
+                    <div class="team-socail mt-5">
+                        <h5>Careers</h5>
+                        <p>Visit our Careers page to search and apply for open positions at HPIT.</p>
+
+                        <a class="defaultBtn mt-3 text-white" href="careers.php">Learn More</a>
                     </div>
                     <div class="team-socail mt-5">
                         <h5>More ways to connect</h5>
