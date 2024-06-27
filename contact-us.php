@@ -186,13 +186,13 @@
                 <div class="col-lg-4">
                 <div class="team-socail">
                         <h5>RFP</h5>
-                        <p>Submit a request for proposal (RFP) to Grant Thornton LLP, the U.S. member firm of Grant Thornton International Ltd (GTIL).</p>
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 
                         <a class="defaultBtn mt-3 text-white" href="#">Submit RFP</a>
                     </div>
                     <div class="team-socail mt-5">
                         <h5>Careers</h5>
-                        <p>Visit our Careers page to search and apply for open positions at HPIT.</p>
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 
                         <a class="defaultBtn mt-3 text-white" href="careers.php">Learn More</a>
                     </div>
@@ -226,20 +226,7 @@
 
 
 
-    <section class="ctaSec">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-9 m-auto text-center">
-                    <h3>
-                        Let's Talk About
-                        How We Could Work
-                        Together
-                    </h3>
-                    <a class="defaultBtn mt-3" href="#">CONTACT HPIT</a>
-                </div>
-            </div>
-        </div>
-    </section>
+   
     <?php include 'components/footer.php'; ?>
     <?php include 'layouts/body.php'; ?>
 </body>

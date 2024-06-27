@@ -44,6 +44,7 @@
             <div class="row">
                 <h2 class="sectionHead">Strategic <span>Partners
                 </span></h2>
+                <p class="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since  Lorem Ipsum has been the industry's standard dummy text ever since</p>
                 <div class="row mt-5" bis_skin_checked="1">
                         <div class="col-lg-6" bis_skin_checked="1">
                             <div class="teamcontent" bis_skin_checked="1">
@@ -136,6 +137,7 @@
             <div class="row">
                 <h2 class="sectionHead">Our Technology  <span>Alliance Partners
                 </span></h2>
+                <p class="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since  Lorem Ipsum has been the industry's standard dummy text ever since</p>
                 <div class="row mt-5" bis_skin_checked="1">
                         <div class="col-lg-6" bis_skin_checked="1">
                             <div class="teamcontent" bis_skin_checked="1">
@@ -228,6 +230,7 @@
             <div class="row">
                 <h2 class="sectionHead">Evolving <span>Technology Partner
                 </span></h2>
+                <p class="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since  Lorem Ipsum has been the industry's standard dummy text ever since</p>
                 <div class="row mt-5" bis_skin_checked="1">
                         <div class="col-lg-6" bis_skin_checked="1">
                             <div class="teamcontent" bis_skin_checked="1">
