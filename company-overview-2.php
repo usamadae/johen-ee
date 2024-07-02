@@ -128,55 +128,40 @@
 
                     <section class="realeated-capability hidden-para" id="para1">
                         <div class="row g-5 pt-5" bis_skin_checked="1">
-                            <div class="col-lg-4" bis_skin_checked="1">
+                            <div class="col-lg-4 colpad" bis_skin_checked="1">
                                 <div class="block-box" bis_skin_checked="1">
-                                    <img src="assets/img/assets/humilty.png" alt="icon">
+                                    <!--<img src="assets/img/assets/humilty.png" alt="icon">-->
                                     <h3>Humility</h3>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard
-                                    </p>
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
                                 </div>
                             </div>
-                            <div class="col-lg-4" bis_skin_checked="1">
+                            <div class="col-lg-4 colpad" bis_skin_checked="1">
                                 <div class="block-box" bis_skin_checked="1">
-                                    <img src="assets/img/assets/huminith.png" alt="icon">
+                                    <!--<img src="assets/img/assets/huminith.png" alt="icon">-->
                                     <h3>Humanity </h3>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard
-                                    </p>
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
                                 </div>
                             </div>
-                            <div class="col-lg-4" bis_skin_checked="1">
+                            <div class="col-lg-4 colpad" bis_skin_checked="1">
                                 <div class="block-box" bis_skin_checked="1">
-                                    <img src="assets/img/assets/integrity.png" alt="icon">
+                                    <!--<img src="assets/img/assets/integrity.png" alt="icon">-->
                                     <h3>Integrity</h3>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard
-
-                                    </p>
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
                                 </div>
                             </div>
                             <div class="row justify-content-center pt-5">
                                 <div class="col-lg-4" bis_skin_checked="1">
                                     <div class="block-box" bis_skin_checked="1">
-                                        <img src="assets/img/assets/integrity.png" alt="icon">
+                                        <!--<img src="assets/img/assets/integrity.png" alt="icon">-->
                                         <h3>Lorem ipsum</h3>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            Lorem
-                                            Ipsum has been the industry's standard
-
-                                        </p>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
                                     </div>
                                 </div>
                                 <div class="col-lg-4" bis_skin_checked="1">
                                     <div class="block-box" bis_skin_checked="1">
-                                        <img src="assets/img/assets/integrity.png" alt="icon">
+                                        <!--<img src="assets/img/assets/integrity.png" alt="icon">-->
                                         <h3>Lorem ipsum</h3>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            Lorem
-                                            Ipsum has been the industry's standard
-
-                                        </p>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
                                     </div>
                                 </div>
                             </div>
@@ -190,12 +175,7 @@
         </div>
     </section>
 
-
-
-
-
-
-    <section class="over-there bg-white bg-padding global-scale px-5">
+   <!-- <section class="over-there bg-white bg-padding global-scale px-5">
         <div class="container" bis_skin_checked="1">
             <div class="row" bis_skin_checked="1">
 
@@ -320,9 +300,76 @@
 
 
         </div>
-    </section>
+    </section>-->
+
 
     <section class="over-there bg-white bg-padding global-scale px-5">
+    <div class="container" bis_skin_checked="1">
+        <div class="row" bis_skin_checked="1">
+
+            <div class="col-lg-3" bis_skin_checked="1">
+                <div class="list_toggle_flex">
+                    <div>
+                        <h3 class="over-h3">Who We Are</h3>
+                    </div>
+                    <div class="toggle-para" data-target="para2">
+                        <svg id="toggle-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                            <path d="M24 10h-10v-10h-4v10h-10v4h10v10h4v-10h10z"></path>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-9 border-start-pad" bis_skin_checked="1">
+                <h3 class="section_head2">Lorem Ipsum is simply dummy</h3>
+                <p class="text-start">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged</p>
+                <div class="hidden-para" id="para2">
+                    <div class="row pt-5">
+                        <div class="col-lg-4">
+                            <div class="values-div">
+                                <div class="value-item">
+                                    <button class="values-btn">Leaders</button>
+                                </div>
+                                <div class="value-item">
+                                    <button class="values-btn">Ethics and Compliance</button>
+                                </div>
+                                <div class="value-item">
+                                    <button class="values-btn">Diversity, Equity and Inclusion</button>
+                                </div>
+                                <div class="value-item">
+                                    <button class="values-btn">Sustainability</button>
+                                </div>
+                                <div class="value-item">
+                                    <button class="values-btn">Contract Vehicles</button>
+                                </div>
+                                <div class="value-item">
+                                    <button class="values-btn">Global</button>
+                                </div>
+                                <div class="value-item">
+                                    <button class="values-btn">Partner</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 experiesss">
+                            <div class="block">
+                                <img class="img-fluid" id="img-values" src="assets/img/values/values-leaders.png" alt="image">
+                                <h3 id="btn-value-text">Leaders</h3>
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
+                                    Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                <div class="link-btn">
+                                    <a class="defaultBtn mt-2" href="#">Read more</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    <!--<section class="over-there bg-white bg-padding global-scale px-5">
         <div class="container" bis_skin_checked="1">
             <div class="row" bis_skin_checked="1">
 
@@ -419,7 +466,66 @@
 
 
         </div>
-    </section>
+    </section>-->
+
+    <section class="over-there bg-white bg-padding global-scale px-5">
+    <div class="container" bis_skin_checked="1">
+        <div class="row" bis_skin_checked="1">
+
+            <div class="col-lg-3" bis_skin_checked="1">
+                <div class="list_toggle_flex">
+                    <div>
+                        <h3 class="over-h3">What We Do</h3>
+                    </div>
+                    <div class="toggle-para" data-target="para3">
+                        <svg id="toggle-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                            <path d="M24 10h-10v-10h-4v10h-10v4h10v10h4v-10h10z"></path>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-9 border-start-pad" bis_skin_checked="1">
+                <h3 class="section_head2">Lorem Ipsum is simply dummy</h3>
+                <p class="text-start">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged</p>
+                <div class="hidden-para" id="para3">
+                    <div class="row pt-5">
+                        <div class="col-lg-4">
+                            <div class="wedo-div">
+                                <div class="wedo-item">
+                                    <button class="wedo-btn">Technology</button>
+                                </div>
+                                <div class="wedo-item">
+                                    <button class="wedo-btn">Business</button>
+                                </div>
+                                <div class="wedo-item">
+                                    <button class="wedo-btn">Engineering</button>
+                                </div>
+                                <div class="wedo-item">
+                                    <button class="wedo-btn">Mission</button>
+                                </div>
+                                <div class="wedo-item">
+                                    <button class="wedo-btn">Consulting</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 experiesss">
+                            <div class="block">
+                                <img class="img-fluid" id="img-wedo" src="assets/img/wedo/wedo-technology.png" alt="image">
+                                <h3 id="btn-wedo-text">Leaders</h3>
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
+                                    Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                <div class="link-btn">
+                                    <a class="defaultBtn mt-2" href="#">Read more</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 
@@ -1366,7 +1472,7 @@
     <?php include 'layouts/body.php'; ?>
 
 
-    <script>
+    <!--<script>
     $(document).ready(function() {
 
         $('.expertires-btn').click(function() {
@@ -1399,7 +1505,56 @@ $('#img-expertise').attr('src', newSrc); // Update the src attribute of the imag
         }
     });
     });
+    
+    </script>-->
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+
+    $('.expertires-btn').click(function() {
+        var buttonText = $(this).text();
+        $('#btn-text').text(buttonText);
+        var buttonText = $(this).text().toLowerCase().replace(/\s+/g, '');
+        var newSrc = 'assets/img/assets/experties-' + buttonText + '.png';
+        $('#img-expertise').attr('src', newSrc);
+    });
+
+    $('.values-btn').click(function() {
+        var buttonText = $(this).text();
+        $('#btn-value-text').text(buttonText);
+        var buttonText = $(this).text().toLowerCase().replace(/\s+/g, '');
+        var newSrc = 'assets/img/values/values-' + buttonText + '.png';
+        $('#img-values').attr('src', newSrc);
+    });
+
+    $('.wedo-btn').click(function() {
+        var buttonText = $(this).text();
+        $('#btn-wedo-text').text(buttonText);
+        var buttonText = $(this).text().toLowerCase().replace(/\s+/g, '');
+        var newSrc = 'assets/img/wedo/wedo-' + buttonText + '.png';
+        $('#img-wedo').attr('src', newSrc);
+    });
+
+    $('.toggle-para').click(function() {
+        var targets = $(this).data('target').split(',');
+        targets.forEach(function(target) {
+            $('#' + target.trim()).slideToggle();
+        });
+
+        var $icon = $(this).find('#toggle-icon');
+        var $path = $('path', $icon);
+
+        if ($path.attr('d') === "M24 10h-10v-10h-4v10h-10v4h10v10h4v-10h10z") {
+            $path.attr('d', 'M24 14h-20v-4h20z');
+        } else {
+            $path.attr('d', 'M24 10h-10v-10h-4v10h-10v4h10v10h4v-10h10z');
+        }
+    });
+});
+
+
     </script>
+
 </body>
 
 </html>

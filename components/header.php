@@ -15,7 +15,7 @@
                                 <a href="#">Suppliers</a>
                             </li>
                             <li>
-                                <a href="#">Contact us</a>
+                                <a href="http://localhost/hpit-new/contact-us.php">Contact us</a>
                             </li>
                         </ul>
                         <div id="google_translate_element" style="visibility: hidden;"></div>

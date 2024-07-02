@@ -78,8 +78,8 @@
                     <div class="block-box">
                         <img src="assets/img/assets/technologyg.png" alt="icon">
                         <h3>Technology</h3>
-                        <p>Explore our blockchain capabilities you can implement today and alliances to join to
-                            future-proof your business.
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
+                        Ipsum has been the industry's standard dummy text ever since the 1500s.
                         </p>
                         <a class="defaultBtn mt-3" href="#">Learn More</a>
                     </div>
@@ -88,7 +88,8 @@
                 <div class="block-box">
                         <img src="assets/img/assets/bussiness.png" alt="icon">
                         <h3>Business </h3>
-                        <p>Cloud is a key aspect of any blockchain solution. Understand what cloud is and what it can do for you.
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
+                        Ipsum has been the industry's standard dummy text ever since the 1500s.
                         </p>
                         <a class="defaultBtn mt-3" href="#">Learn More</a>
                     </div>
@@ -97,7 +98,8 @@
                 <div class="block-box">
                         <img src="assets/img/assets/enginering.png" alt="icon">
                         <h3>Engineering</h3>
-                        <p>Blockchain + AI is a powerful combination. Get up to speed on AI and learn how it can help power up you drive business value.
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
+                        Ipsum has been the industry's standard dummy text ever since the 1500s.
 
                         </p>
                         <a class="defaultBtn mt-3" href="#">Learn More</a>
@@ -109,7 +111,8 @@
                     <div class="block-box">
                         <img src="assets/img/assets/missiong.png" alt="icon">
                         <h3>Mission </h3>
-                        <p>Explore our blockchain capabilities you can implement today and alliances to join to future-proof your business.
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
+                        Ipsum has been the industry's standard dummy text ever since the 1500s.
                         </p>
                         <a class="defaultBtn mt-3" href="#">Learn More</a>
                     </div>
@@ -118,7 +121,8 @@
                 <div class="block-box">
                         <img src="assets/img/assets/counsulting.png" alt="icon">
                         <h3>Consulting </h3>
-                        <p>Cloud is a key aspect of any blockchain solution. Understand what cloud is and what it can do for you.
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
+                        Ipsum has been the industry's standard dummy text ever since the 1500s.
                         </p>
                         <a class="defaultBtn mt-3" href="#">Learn More</a>
                     </div>
