@@ -204,7 +204,7 @@
                                 <b>Follow us on social media</b></p>
 
                                 <div class="social-para">
-                                <p>Join us on <a href="#">Instagram</a>, <a href="#">Facebook</a>, <a href="#">Linkedin</a>, 
+                                <p>Join us on <a href="#">Facebook</a>, <a href="#">Linkedin</a>, 
                                     <a href="#">Youtube</a> and <a href="#">Twitter</a></p>
                                 </div>    
                             
