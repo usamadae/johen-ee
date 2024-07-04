@@ -188,7 +188,7 @@
                         <h5>RFP</h5>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 
-                        <a class="defaultBtn mt-3 text-white" href="#">Submit RFP</a>
+                        <a class="defaultBtn mt-3 text-white" href="request-for-proposal.php">Submit RFP</a>
                     </div>
                     <div class="team-socail mt-5">
                         <h5>Careers</h5>

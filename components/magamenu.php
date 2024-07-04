@@ -396,6 +396,11 @@ const megamenus2 = {
                 icon: 'mega43.svg'
             },
             {
+                label: 'Latest Opportunities',
+                link: '#',
+                icon: 'mega34.svg'
+            },
+            {
                 label: 'Military Veterans',
                 link: '#',
                 icon: 'mega44.svg'

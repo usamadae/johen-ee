@@ -622,7 +622,7 @@
 
 
 
-    <section class="realeated-capability bg-star-left-blue py-5 bg-gray_1">
+    <section class="realeated-capability bg-star-left-blue py-5">
         <div class="container">
             <h2 class="sectionHead">Related <span>capabilities</span></h2>
             <div class="row g-5 pt-5 ">
