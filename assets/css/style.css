@@ -2817,6 +2817,28 @@ section.leadership_btns p{
     background-color: #fe0000;
     border-color: #fe0000;
 }
+
+
+
+.contrct-vehicles .card-header h2 {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+
+button.contarct_btn {
+    border: none;
+    background-color: transparent;
+    line-height: 0;
+}
+
+button.contarct_btn svg {
+    fill: #0cbfdf;
+}
+
+button.contarct_btn.collapsed svg {
+    fill: black;
+}
 @media (pointer: coarse) {
     #js-pointer-detector {
         display: block;
