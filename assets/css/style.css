@@ -2832,13 +2832,28 @@ button.contarct_btn {
     line-height: 0;
 }
 
-button.contarct_btn svg {
-    fill: #0cbfdf;
-}
 
 button.contarct_btn.collapsed svg {
     fill: black;
 }
+
+.icon .minus {
+    display: none;
+}
+
+button.contract_btn.collapsed .icon .plus {
+    display: none;
+}
+
+button.contract_btn.collapsed .icon .minus {
+    display: inline;
+}
+
+button.contract_btn .icon .plus {
+    display: inline;
+}
+
+
 @media (pointer: coarse) {
     #js-pointer-detector {
         display: block;

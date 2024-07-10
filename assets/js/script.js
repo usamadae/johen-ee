@@ -211,7 +211,22 @@
 
     $(document).ready(function(){
 
-      
+        $('button.contarct_btn').on('click', function() {
+         
+            var isExpanded = $(this).attr('aria-expanded') === 'true';
+            $(this).attr('aria-expanded', !isExpanded);
+            $(this).toggleClass('collapsed');
+
+            // Toggle SVG icons
+            if (isExpanded) {
+                
+                $(this).find('.plus').show();
+                $(this).find('.minus').hide();
+            } else {
+                $(this).find('.plus').hide();
+                $(this).find('.minus').show();
+            }
+        });
 
         $(".language-switcher nav ul li a").click(function() {
             var language = $(this).data("lang"); // Get the value of data-lang attribute

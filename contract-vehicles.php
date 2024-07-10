@@ -97,20 +97,21 @@
 
                                 <button class="contarct_btn" data-toggle="collapse" data-target="#collapseOne1"
                                     aria-expanded="true" aria-controls="collapseOne1">
-                                    <svg fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
-                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px"
-                                        viewBox="0 0 45.402 45.402" xml:space="preserve">
-                                        <g>
-                                            <path d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
-		c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
-		c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
-		c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z" />
-                                        </g>
-                                    </svg>
+                                    <svg class="icon" fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" viewBox="0 0 45.402 45.402" xml:space="preserve">
+        <g>
+            <path class="plus" d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+                c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+                c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+                c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+            <path class="minus" d="M41.267,22.707H4.134C1.851,22.707,0,24.558,0,26.841c0,2.283,1.851,4.134,4.134,4.134h37.133
+                c2.283,0,4.134-1.851,4.134-4.134C45.401,24.558,43.55,22.707,41.267,22.707z"></path>
+        </g>
+    </svg>
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapseOne1" class="collapse show" aria-labelledby="headingOne1"
+                        <div id="collapseOne1" class="collapse 
+                    " aria-labelledby="headingOne1"
                             data-parent="#accordionExample1">
                             <div class="card-body">
                                 <div class="custom-section">
@@ -146,16 +147,16 @@
                                 
                                 <button class="contarct_btn" data-toggle="collapse"
                                 data-target="#collapseTwo1" aria-expanded="false" aria-controls="collapseTwo1">
-                                    <svg fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
-                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px"
-                                        viewBox="0 0 45.402 45.402" xml:space="preserve">
-                                        <g>
-                                            <path d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
-		c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
-		c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
-		c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z" />
-                                        </g>
-                                    </svg>
+                                     <svg class="icon" fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" viewBox="0 0 45.402 45.402" xml:space="preserve">
+        <g>
+            <path class="plus" d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+                c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+                c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+                c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+            <path class="minus" d="M41.267,22.707H4.134C1.851,22.707,0,24.558,0,26.841c0,2.283,1.851,4.134,4.134,4.134h37.133
+                c2.283,0,4.134-1.851,4.134-4.134C45.401,24.558,43.55,22.707,41.267,22.707z"></path>
+        </g>
+    </svg>
                                 </button>
                             </h2>
                         </div>
@@ -190,22 +191,22 @@
                     <div class="card">
                         <div class="card-header" id="headingThree1">
                             <h2 class="mb-0">
-                                <button class="btn btn-link collapsed" type="button" >
+                                <button class="btn btn-link" type="button" >
                                     LOREM IPSUM
                                 </button>
 
                                 <button class="contarct_btn" data-toggle="collapse"
                                 data-target="#collapseThree1" aria-expanded="false" aria-controls="collapseThree1">
-                                    <svg fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
-                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px"
-                                        viewBox="0 0 45.402 45.402" xml:space="preserve">
-                                        <g>
-                                            <path d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
-		c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
-		c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
-		c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z" />
-                                        </g>
-                                    </svg>
+                                     <svg class="icon" fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" viewBox="0 0 45.402 45.402" xml:space="preserve">
+        <g>
+            <path class="plus" d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+                c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+                c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+                c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+            <path class="minus" d="M41.267,22.707H4.134C1.851,22.707,0,24.558,0,26.841c0,2.283,1.851,4.134,4.134,4.134h37.133
+                c2.283,0,4.134-1.851,4.134-4.134C45.401,24.558,43.55,22.707,41.267,22.707z"></path>
+        </g>
+    </svg>
                                 </button>
                             </h2>
                         </div>
@@ -240,21 +241,21 @@
                     <div class="card">
                         <div class="card-header" id="headingFour11">
                             <h2 class="mb-0">
-                                <button class="btn btn-link collapsed" type="button" >
+                                <button class="btn btn-link" type="button" >
                                     LOREM IPSUM
                                 </button>
                                 <button class="contarct_btn" data-toggle="collapse"
                                 data-target="#collapseFour11" aria-expanded="false" aria-controls="collapseFour11">
-                                    <svg fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
-                                        xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px"
-                                        viewBox="0 0 45.402 45.402" xml:space="preserve">
-                                        <g>
-                                            <path d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
-		c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
-		c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
-		c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z" />
-                                        </g>
-                                    </svg>
+                                     <svg class="icon" fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" viewBox="0 0 45.402 45.402" xml:space="preserve">
+        <g>
+            <path class="plus" d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+                c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+                c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+                c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+            <path class="minus" d="M41.267,22.707H4.134C1.851,22.707,0,24.558,0,26.841c0,2.283,1.851,4.134,4.134,4.134h37.133
+                c2.283,0,4.134-1.851,4.134-4.134C45.401,24.558,43.55,22.707,41.267,22.707z"></path>
+        </g>
+    </svg>
                                 </button>
                             </h2>
                         </div>
