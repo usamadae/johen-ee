@@ -96,7 +96,7 @@
                                 </button>
 
                                 <button class="contarct_btn" data-toggle="collapse" data-target="#collapseOne1"
-                                    aria-expanded="true" aria-controls="collapseOne1">
+                                    aria-expanded="false" aria-controls="collapseOne1">
                                     <svg class="icon" fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" viewBox="0 0 45.402 45.402" xml:space="preserve">
         <g>
             <path class="plus" d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
@@ -110,7 +110,7 @@
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapseOne1" class="collapse 
+                        <div id="collapseOne1" class="collapse  
                     " aria-labelledby="headingOne1"
                             data-parent="#accordionExample1">
                             <div class="card-body">
@@ -318,34 +318,45 @@
                     <div class="card">
                         <div class="card-header" id="headingOne1">
                             <h2 class="mb-0">
-                                <button class="btn btn-link" type="button" data-toggle="collapse"
-                                    data-target="#collapseOne11" aria-expanded="true" aria-controls="collapseOne11">
+                                <button class="btn btn-link" type="button">
                                     LOREM IPSUM
+                                </button>
+                                <button class="contarct_btn" data-toggle="collapse"
+                                data-target="#collapseOne11" aria-expanded="false" aria-controls="collapseOne11">
+                                     <svg class="icon" fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" viewBox="0 0 45.402 45.402" xml:space="preserve">
+        <g>
+            <path class="plus" d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+                c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+                c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+                c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+            <path class="minus" d="M41.267,22.707H4.134C1.851,22.707,0,24.558,0,26.841c0,2.283,1.851,4.134,4.134,4.134h37.133
+                c2.283,0,4.134-1.851,4.134-4.134C45.401,24.558,43.55,22.707,41.267,22.707z"></path>
+        </g>
+    </svg>
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapseOne11" class="collapse show" aria-labelledby="headingOne11"
+                        <div id="collapseOne11" class="collapse" aria-labelledby="headingOne11"
                             data-parent="#accordionExample1">
                             <div class="card-body">
                                 <div class="custom-section">
                                     <div class="row">
-                                        <div class="col-md-8">
+                                        <div class="col-md-8 p-5">
 
                                             <p class="font-weight-bold bold-lorem">LOREM IPSUM IS SIMPLY DUMMY TEXT OF
                                                 THE PRINTING AND TYPESETTING INDUSTRY. LOREM IPSUM HAS BEEN THE
-                                                INDUSTRY'S STANDARD DUMMY TEXT</p>
+                                                INDUSTRY'S </p>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting
                                                 industry. Lorem Ipsum has been the industry's standard dummy text ever
                                                 since the 1500s</p>
                                             <a href="#" class="read-more">READ MORE</a>
                                         </div>
-                                        <div class="col-md-4 contract-content">
+                                        <div class="col-md-4 contract-content p-5">
                                             <h5 class="header-text">CONTRACT</h5>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting
                                                 industry. Lorem Ipsum is simply dummy text of the printing and
                                                 typesetting industry.</p>
-                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-                                                industry.</p>
+                                           
                                         </div>
                                     </div>
                                 </div>
@@ -355,9 +366,21 @@
                     <div class="card">
                         <div class="card-header" id="headingTwo1">
                             <h2 class="mb-0">
-                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                    data-target="#collapseTwo12" aria-expanded="false" aria-controls="collapseTwo12">
+                                <button class="btn btn-link collapsed" type="button" >
                                     LOREM IPSUM
+                                </button>
+                                <button class="contarct_btn" data-toggle="collapse"
+                                data-target="#collapseTwo12" aria-expanded="false" aria-controls="collapseTwo12">
+                                     <svg class="icon" fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" viewBox="0 0 45.402 45.402" xml:space="preserve">
+        <g>
+            <path class="plus" d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+                c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+                c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+                c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+            <path class="minus" d="M41.267,22.707H4.134C1.851,22.707,0,24.558,0,26.841c0,2.283,1.851,4.134,4.134,4.134h37.133
+                c2.283,0,4.134-1.851,4.134-4.134C45.401,24.558,43.55,22.707,41.267,22.707z"></path>
+        </g>
+    </svg>
                                 </button>
                             </h2>
                         </div>
@@ -366,23 +389,22 @@
                             <div class="card-body">
                                 <div class="custom-section">
                                     <div class="row">
-                                        <div class="col-md-8">
+                                        <div class="col-md-8 p-5">
 
                                             <p class="font-weight-bold bold-lorem">LOREM IPSUM IS SIMPLY DUMMY TEXT OF
                                                 THE PRINTING AND TYPESETTING INDUSTRY. LOREM IPSUM HAS BEEN THE
-                                                INDUSTRY'S STANDARD DUMMY TEXT</p>
+                                                INDUSTRY'S</p>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting
                                                 industry. Lorem Ipsum has been the industry's standard dummy text ever
                                                 since the 1500s</p>
                                             <a href="#" class="read-more">READ MORE</a>
                                         </div>
-                                        <div class="col-md-4 contract-content">
+                                        <div class="col-md-4 contract-content p-5">
                                             <h5 class="header-text">CONTRACT</h5>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting
                                                 industry. Lorem Ipsum is simply dummy text of the printing and
                                                 typesetting industry.</p>
-                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-                                                industry.</p>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -393,10 +415,22 @@
                     <div class="card">
                         <div class="card-header" id="headingThree1">
                             <h2 class="mb-0">
-                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                                <button class="btn btn-link collapsed" type="button" >
+                                    LOREM IPSUM
+                                </button>
+                                <button class="contarct_btn" data-toggle="collapse"
                                     data-target="#collapseThree13" aria-expanded="false"
                                     aria-controls="collapseThree13">
-                                    LOREM IPSUM
+                                     <svg class="icon" fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" viewBox="0 0 45.402 45.402" xml:space="preserve">
+        <g>
+            <path class="plus" d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+                c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+                c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+                c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+            <path class="minus" d="M41.267,22.707H4.134C1.851,22.707,0,24.558,0,26.841c0,2.283,1.851,4.134,4.134,4.134h37.133
+                c2.283,0,4.134-1.851,4.134-4.134C45.401,24.558,43.55,22.707,41.267,22.707z"></path>
+        </g>
+    </svg>
                                 </button>
                             </h2>
                         </div>
@@ -405,23 +439,22 @@
                             <div class="card-body">
                                 <div class="custom-section">
                                     <div class="row">
-                                        <div class="col-md-8">
+                                        <div class="col-md-8 p-5">
 
                                             <p class="font-weight-bold bold-lorem">LOREM IPSUM IS SIMPLY DUMMY TEXT OF
                                                 THE PRINTING AND TYPESETTING INDUSTRY. LOREM IPSUM HAS BEEN THE
-                                                INDUSTRY'S STANDARD DUMMY TEXT</p>
+                                                INDUSTRY'S</p>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting
                                                 industry. Lorem Ipsum has been the industry's standard dummy text ever
                                                 since the 1500s</p>
                                             <a href="#" class="read-more">READ MORE</a>
                                         </div>
-                                        <div class="col-md-4 contract-content">
+                                        <div class="col-md-4 contract-content p-5">
                                             <h5 class="header-text">CONTRACT</h5>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting
                                                 industry. Lorem Ipsum is simply dummy text of the printing and
                                                 typesetting industry.</p>
-                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-                                                industry.</p>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -432,9 +465,21 @@
                     <div class="card">
                         <div class="card-header" id="headingFour11">
                             <h2 class="mb-0">
-                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                    data-target="#collapseFour14" aria-expanded="false" aria-controls="collapseFour14">
+                                <button class="btn btn-link collapsed" type="button" >
                                     LOREM IPSUM
+                                </button>
+                                <button class="contarct_btn" data-toggle="collapse"
+                                data-target="#collapseFour14" aria-expanded="false" aria-controls="collapseFour14">
+                                     <svg class="icon" fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" viewBox="0 0 45.402 45.402" xml:space="preserve">
+        <g>
+            <path class="plus" d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+                c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+                c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+                c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+            <path class="minus" d="M41.267,22.707H4.134C1.851,22.707,0,24.558,0,26.841c0,2.283,1.851,4.134,4.134,4.134h37.133
+                c2.283,0,4.134-1.851,4.134-4.134C45.401,24.558,43.55,22.707,41.267,22.707z"></path>
+        </g>
+    </svg>
                                 </button>
                             </h2>
                         </div>
@@ -443,23 +488,22 @@
                             <div class="card-body">
                                 <div class="custom-section">
                                     <div class="row">
-                                        <div class="col-md-8">
+                                        <div class="col-md-8 p-5">
 
                                             <p class="font-weight-bold bold-lorem">LOREM IPSUM IS SIMPLY DUMMY TEXT OF
                                                 THE PRINTING AND TYPESETTING INDUSTRY. LOREM IPSUM HAS BEEN THE
-                                                INDUSTRY'S STANDARD DUMMY TEXT</p>
+                                                INDUSTRY'S</p>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting
                                                 industry. Lorem Ipsum has been the industry's standard dummy text ever
                                                 since the 1500s</p>
                                             <a href="#" class="read-more">READ MORE</a>
                                         </div>
-                                        <div class="col-md-4 contract-content">
+                                        <div class="col-md-4 contract-content p-5">
                                             <h5 class="header-text">CONTRACT</h5>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting
                                                 industry. Lorem Ipsum is simply dummy text of the printing and
                                                 typesetting industry.</p>
-                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-                                                industry.</p>
+                                         
                                         </div>
                                     </div>
                                 </div>
@@ -498,34 +542,45 @@
                     <div class="card">
                         <div class="card-header" id="headingOne1">
                             <h2 class="mb-0">
-                                <button class="btn btn-link" type="button" data-toggle="collapse"
-                                    data-target="#collapseOne15" aria-expanded="true" aria-controls="collapseOne15">
+                                <button class="btn btn-link" type="button" >
                                     LOREM IPSUM
+                                </button>
+                                <button class="contarct_btn" data-toggle="collapse"
+                                data-target="#collapseOne15" aria-expanded="true" aria-controls="collapseOne15">
+                                     <svg class="icon" fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" viewBox="0 0 45.402 45.402" xml:space="preserve">
+        <g>
+            <path class="plus" d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+                c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+                c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+                c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+            <path class="minus" d="M41.267,22.707H4.134C1.851,22.707,0,24.558,0,26.841c0,2.283,1.851,4.134,4.134,4.134h37.133
+                c2.283,0,4.134-1.851,4.134-4.134C45.401,24.558,43.55,22.707,41.267,22.707z"></path>
+        </g>
+    </svg>
                                 </button>
                             </h2>
                         </div>
-                        <div id="collapseOne15" class="collapse show" aria-labelledby="headingOne15"
+                        <div id="collapseOne15" class="collapse" aria-labelledby="headingOne15"
                             data-parent="#accordionExample1">
                             <div class="card-body">
                                 <div class="custom-section">
                                     <div class="row">
-                                        <div class="col-md-8">
+                                        <div class="col-md-8 p-5">
 
                                             <p class="font-weight-bold bold-lorem">LOREM IPSUM IS SIMPLY DUMMY TEXT OF
                                                 THE PRINTING AND TYPESETTING INDUSTRY. LOREM IPSUM HAS BEEN THE
-                                                INDUSTRY'S STANDARD DUMMY TEXT</p>
+                                                INDUSTRY'ST</p>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting
                                                 industry. Lorem Ipsum has been the industry's standard dummy text ever
                                                 since the 1500s</p>
                                             <a href="#" class="read-more">READ MORE</a>
                                         </div>
-                                        <div class="col-md-4 contract-content">
+                                        <div class="col-md-4 contract-content p-5">
                                             <h5 class="header-text">CONTRACT</h5>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting
                                                 industry. Lorem Ipsum is simply dummy text of the printing and
                                                 typesetting industry.</p>
-                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-                                                industry.</p>
+                                          
                                         </div>
                                     </div>
                                 </div>
@@ -535,9 +590,21 @@
                     <div class="card">
                         <div class="card-header" id="headingTwo1">
                             <h2 class="mb-0">
-                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                    data-target="#collapseTwo16" aria-expanded="false" aria-controls="collapseTwo16">
+                                <button class="btn btn-link collapsed" type="button" >
                                     LOREM IPSUM
+                                </button>
+                                <button class="contarct_btn" data-toggle="collapse"
+                                data-target="#collapseTwo16" aria-expanded="false" aria-controls="collapseTwo16">
+                                     <svg class="icon" fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" viewBox="0 0 45.402 45.402" xml:space="preserve">
+        <g>
+            <path class="plus" d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+                c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+                c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+                c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+            <path class="minus" d="M41.267,22.707H4.134C1.851,22.707,0,24.558,0,26.841c0,2.283,1.851,4.134,4.134,4.134h37.133
+                c2.283,0,4.134-1.851,4.134-4.134C45.401,24.558,43.55,22.707,41.267,22.707z"></path>
+        </g>
+    </svg>
                                 </button>
                             </h2>
                         </div>
@@ -546,23 +613,22 @@
                             <div class="card-body">
                                 <div class="custom-section">
                                     <div class="row">
-                                        <div class="col-md-8">
+                                        <div class="col-md-8 p-5">
 
                                             <p class="font-weight-bold bold-lorem">LOREM IPSUM IS SIMPLY DUMMY TEXT OF
                                                 THE PRINTING AND TYPESETTING INDUSTRY. LOREM IPSUM HAS BEEN THE
-                                                INDUSTRY'S STANDARD DUMMY TEXT</p>
+                                                INDUSTRY'S</p>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting
                                                 industry. Lorem Ipsum has been the industry's standard dummy text ever
                                                 since the 1500s</p>
                                             <a href="#" class="read-more">READ MORE</a>
                                         </div>
-                                        <div class="col-md-4 contract-content">
+                                        <div class="col-md-4 contract-content p-5">
                                             <h5 class="header-text">CONTRACT</h5>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting
                                                 industry. Lorem Ipsum is simply dummy text of the printing and
                                                 typesetting industry.</p>
-                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-                                                industry.</p>
+                                        
                                         </div>
                                     </div>
                                 </div>
@@ -573,10 +639,22 @@
                     <div class="card">
                         <div class="card-header" id="headingThree1">
                             <h2 class="mb-0">
-                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                                <button class="btn btn-link collapsed" type="button">
+                                    LOREM IPSUM
+                                </button>
+                                <button class="contarct_btn"data-toggle="collapse"
                                     data-target="#collapseThree17" aria-expanded="false"
                                     aria-controls="collapseThree17">
-                                    LOREM IPSUM
+                                     <svg class="icon" fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" viewBox="0 0 45.402 45.402" xml:space="preserve">
+        <g>
+            <path class="plus" d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+                c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+                c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+                c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+            <path class="minus" d="M41.267,22.707H4.134C1.851,22.707,0,24.558,0,26.841c0,2.283,1.851,4.134,4.134,4.134h37.133
+                c2.283,0,4.134-1.851,4.134-4.134C45.401,24.558,43.55,22.707,41.267,22.707z"></path>
+        </g>
+    </svg>
                                 </button>
                             </h2>
                         </div>
@@ -585,23 +663,22 @@
                             <div class="card-body">
                                 <div class="custom-section">
                                     <div class="row">
-                                        <div class="col-md-8">
+                                        <div class="col-md-8 p-5">
 
                                             <p class="font-weight-bold bold-lorem">LOREM IPSUM IS SIMPLY DUMMY TEXT OF
                                                 THE PRINTING AND TYPESETTING INDUSTRY. LOREM IPSUM HAS BEEN THE
-                                                INDUSTRY'S STANDARD DUMMY TEXT</p>
+                                                INDUSTRY'S</p>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting
                                                 industry. Lorem Ipsum has been the industry's standard dummy text ever
                                                 since the 1500s</p>
                                             <a href="#" class="read-more">READ MORE</a>
                                         </div>
-                                        <div class="col-md-4 contract-content">
+                                        <div class="col-md-4 contract-content p-5">
                                             <h5 class="header-text">CONTRACT</h5>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting
                                                 industry. Lorem Ipsum is simply dummy text of the printing and
                                                 typesetting industry.</p>
-                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-                                                industry.</p>
+                                           
                                         </div>
                                     </div>
                                 </div>
@@ -612,9 +689,21 @@
                     <div class="card">
                         <div class="card-header" id="headingFour11">
                             <h2 class="mb-0">
-                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                    data-target="#collapseFour18" aria-expanded="false" aria-controls="collapseFour18">
+                                <button class="btn btn-link collapsed" type="button" >
                                     LOREM IPSUM
+                                </button>
+                                <button class="contarct_btn" data-toggle="collapse"
+                                data-target="#collapseFour18" aria-expanded="false" aria-controls="collapseFour18">
+                                     <svg class="icon" fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" viewBox="0 0 45.402 45.402" xml:space="preserve">
+        <g>
+            <path class="plus" d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+                c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+                c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+                c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+            <path class="minus" d="M41.267,22.707H4.134C1.851,22.707,0,24.558,0,26.841c0,2.283,1.851,4.134,4.134,4.134h37.133
+                c2.283,0,4.134-1.851,4.134-4.134C45.401,24.558,43.55,22.707,41.267,22.707z"></path>
+        </g>
+    </svg>
                                 </button>
                             </h2>
                         </div>
@@ -623,23 +712,22 @@
                             <div class="card-body">
                                 <div class="custom-section">
                                     <div class="row">
-                                        <div class="col-md-8">
+                                        <div class="col-md-8 p-5">
 
                                             <p class="font-weight-bold bold-lorem">LOREM IPSUM IS SIMPLY DUMMY TEXT OF
                                                 THE PRINTING AND TYPESETTING INDUSTRY. LOREM IPSUM HAS BEEN THE
-                                                INDUSTRY'S STANDARD DUMMY TEXT</p>
+                                                INDUSTRY'S</p>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting
                                                 industry. Lorem Ipsum has been the industry's standard dummy text ever
                                                 since the 1500s</p>
                                             <a href="#" class="read-more">READ MORE</a>
                                         </div>
-                                        <div class="col-md-4 contract-content">
+                                        <div class="col-md-4 contract-content p-5">
                                             <h5 class="header-text">CONTRACT</h5>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting
                                                 industry. Lorem Ipsum is simply dummy text of the printing and
                                                 typesetting industry.</p>
-                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-                                                industry.</p>
+                                           
                                         </div>
                                     </div>
                                 </div>
