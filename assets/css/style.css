@@ -2960,10 +2960,47 @@ section.why-hpit-unique .why-hpit-height a.defaultBtn {
 .sub-box.border-none {
     border: none;
 }
+.client_side {
+    display: flex;
+    background-color: #101820;
+    color:white;
+}
 
+.clint_side_img {
+    width: 40%;
+}
+
+.clint_side_content {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left:30px;
+}
+
+.clint_side_content a.defaultBtn.mt-3 {
+    width:200px;
+}
+
+.clint_side_content h3{
+    font-size:22px;
+    line-height:28px;
+    margin-top:20px;
+}
 .why-padding-bottom{
     padding-bottom: 160px !important;
 }
+
+
+ /* the slides */
+ #clientSlide .slick-slide {
+    margin-left:27px;
+  }
+
+  /* the parent */
+ #clientSlide .slick-list {
+    margin-left:-27px;
+  }
 @media (pointer: coarse) {
     #js-pointer-detector {
         display: block;

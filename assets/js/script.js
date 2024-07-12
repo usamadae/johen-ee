@@ -201,7 +201,7 @@
 
     $('#clientSlide').slick({
         infinite: true,
-        slidesToShow: 6,
+        slidesToShow: 2,
         slidesToScroll: 1,
         arrows: true,
         dots: false,

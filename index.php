@@ -203,7 +203,7 @@
                 </div>
             </div>
             <div class="row mt-5">
-                <div id="clientSlide">
+                <!-- <div id="clientSlide">
                     <div class="position-relative">
                         <img src="assets/img/logos/client-1.jpg" alt="Client">
                     </div>
@@ -228,6 +228,153 @@
                     <div class="position-relative">
                         <img src="assets/img/logos/client-2.jpg" alt="Client">
                     </div>
+                </div> -->
+
+                <div id="clientSlide">
+                    <div class="position-relative">
+                        <div class="client_side">
+                            <div class="clint_side_img">
+                                <img src="https://www.infoblox.com/wp-content/uploads/challenge-1-desktop.png"
+                                    class="img-fluid" alt="image">
+                            </div>
+                            <div class="clint_side_content">
+                                <svg width="36" height="30" viewBox="0 0 36 30" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M14.9848 0C5.02538 0 0 4.69325 0 13.9877V30H13.5228V15.092H6.85279V12.5153C6.85279 7.73006 8.77157 5.15337 14.9848 5.15337V0ZM36 0C26.0406 0 21.1066 4.69325 21.1066 13.9877V30H34.6294V15.092H27.9594V12.5153C27.9594 7.73006 29.8782 5.15337 36 5.15337V0Z"
+                                        fill="#00E2EC"></path>
+                                </svg>
+                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+                                <a class="defaultBtn mt-3" href="#">Find Your Solution</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="position-relative">
+                    <div class="client_side">
+                            <div class="clint_side_img">
+                                <img src="https://www.infoblox.com/wp-content/uploads/challenge-1-desktop.png"
+                                    class="img-fluid" alt="image">
+                            </div>
+                            <div class="clint_side_content">
+                                <svg width="36" height="30" viewBox="0 0 36 30" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M14.9848 0C5.02538 0 0 4.69325 0 13.9877V30H13.5228V15.092H6.85279V12.5153C6.85279 7.73006 8.77157 5.15337 14.9848 5.15337V0ZM36 0C26.0406 0 21.1066 4.69325 21.1066 13.9877V30H34.6294V15.092H27.9594V12.5153C27.9594 7.73006 29.8782 5.15337 36 5.15337V0Z"
+                                        fill="#00E2EC"></path>
+                                </svg>
+                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+                                <a class="defaultBtn mt-3" href="#">Find Your Solution</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="position-relative">
+                    <div class="client_side">
+                            <div class="clint_side_img">
+                                <img src="https://www.infoblox.com/wp-content/uploads/challenge-1-desktop.png"
+                                    class="img-fluid" alt="image">
+                            </div>
+                            <div class="clint_side_content">
+                                <svg width="36" height="30" viewBox="0 0 36 30" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M14.9848 0C5.02538 0 0 4.69325 0 13.9877V30H13.5228V15.092H6.85279V12.5153C6.85279 7.73006 8.77157 5.15337 14.9848 5.15337V0ZM36 0C26.0406 0 21.1066 4.69325 21.1066 13.9877V30H34.6294V15.092H27.9594V12.5153C27.9594 7.73006 29.8782 5.15337 36 5.15337V0Z"
+                                        fill="#00E2EC"></path>
+                                </svg>
+                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+                                <a class="defaultBtn mt-3" href="#">Find Your Solution</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="position-relative">
+                    <div class="client_side">
+                            <div class="clint_side_img">
+                                <img src="https://www.infoblox.com/wp-content/uploads/challenge-1-desktop.png"
+                                    class="img-fluid" alt="image">
+                            </div>
+                            <div class="clint_side_content">
+                                <svg width="36" height="30" viewBox="0 0 36 30" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M14.9848 0C5.02538 0 0 4.69325 0 13.9877V30H13.5228V15.092H6.85279V12.5153C6.85279 7.73006 8.77157 5.15337 14.9848 5.15337V0ZM36 0C26.0406 0 21.1066 4.69325 21.1066 13.9877V30H34.6294V15.092H27.9594V12.5153C27.9594 7.73006 29.8782 5.15337 36 5.15337V0Z"
+                                        fill="#00E2EC"></path>
+                                </svg>
+                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+                                <a class="defaultBtn mt-3" href="#">Find Your Solution</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="position-relative">
+                    <div class="client_side">
+                            <div class="clint_side_img">
+                                <img src="https://www.infoblox.com/wp-content/uploads/challenge-1-desktop.png"
+                                    class="img-fluid" alt="image">
+                            </div>
+                            <div class="clint_side_content">
+                                <svg width="36" height="30" viewBox="0 0 36 30" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M14.9848 0C5.02538 0 0 4.69325 0 13.9877V30H13.5228V15.092H6.85279V12.5153C6.85279 7.73006 8.77157 5.15337 14.9848 5.15337V0ZM36 0C26.0406 0 21.1066 4.69325 21.1066 13.9877V30H34.6294V15.092H27.9594V12.5153C27.9594 7.73006 29.8782 5.15337 36 5.15337V0Z"
+                                        fill="#00E2EC"></path>
+                                </svg>
+                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+                                <a class="defaultBtn mt-3" href="#">Find Your Solution</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="position-relative">
+                    <div class="client_side">
+                            <div class="clint_side_img">
+                                <img src="https://www.infoblox.com/wp-content/uploads/challenge-1-desktop.png"
+                                    class="img-fluid" alt="image">
+                            </div>
+                            <div class="clint_side_content">
+                                <svg width="36" height="30" viewBox="0 0 36 30" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M14.9848 0C5.02538 0 0 4.69325 0 13.9877V30H13.5228V15.092H6.85279V12.5153C6.85279 7.73006 8.77157 5.15337 14.9848 5.15337V0ZM36 0C26.0406 0 21.1066 4.69325 21.1066 13.9877V30H34.6294V15.092H27.9594V12.5153C27.9594 7.73006 29.8782 5.15337 36 5.15337V0Z"
+                                        fill="#00E2EC"></path>
+                                </svg>
+                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+                                <a class="defaultBtn mt-3" href="#">Find Your Solution</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="position-relative">
+                    <div class="client_side">
+                            <div class="clint_side_img">
+                                <img src="https://www.infoblox.com/wp-content/uploads/challenge-1-desktop.png"
+                                    class="img-fluid" alt="image">
+                            </div>
+                            <div class="clint_side_content">
+                                <svg width="36" height="30" viewBox="0 0 36 30" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M14.9848 0C5.02538 0 0 4.69325 0 13.9877V30H13.5228V15.092H6.85279V12.5153C6.85279 7.73006 8.77157 5.15337 14.9848 5.15337V0ZM36 0C26.0406 0 21.1066 4.69325 21.1066 13.9877V30H34.6294V15.092H27.9594V12.5153C27.9594 7.73006 29.8782 5.15337 36 5.15337V0Z"
+                                        fill="#00E2EC"></path>
+                                </svg>
+                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+                                <a class="defaultBtn mt-3" href="#">Find Your Solution</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="position-relative">
+                    <div class="client_side">
+                            <div class="clint_side_img">
+                                <img src="https://www.infoblox.com/wp-content/uploads/challenge-1-desktop.png"
+                                    class="img-fluid" alt="image">
+                            </div>
+                            <div class="clint_side_content">
+                                <svg width="36" height="30" viewBox="0 0 36 30" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M14.9848 0C5.02538 0 0 4.69325 0 13.9877V30H13.5228V15.092H6.85279V12.5153C6.85279 7.73006 8.77157 5.15337 14.9848 5.15337V0ZM36 0C26.0406 0 21.1066 4.69325 21.1066 13.9877V30H34.6294V15.092H27.9594V12.5153C27.9594 7.73006 29.8782 5.15337 36 5.15337V0Z"
+                                        fill="#00E2EC"></path>
+                                </svg>
+                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+                                <a class="defaultBtn mt-3" href="#">Find Your Solution</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -239,7 +386,7 @@
 
     <section id="section4" class="bg-white bg-padding bg-star-left-black">
         <div class="container">
-        <h2 class="sectionHead">How Can <span>We Help</span></h2>
+            <h2 class="sectionHead">How Can <span>We Help</span></h2>
             <div class="d-flex align-items-stretch">
                 <div class="nav flex-row nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 
@@ -363,55 +510,55 @@
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item">
                                 <a href="#">Technology <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
-  <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2"/>
-  <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2"/>
-  <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2"/>
-</svg>
+                                        <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                        <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                        <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                    </svg>
 
 
-</a>
+                                </a>
                             </li>
                             <li class="list-group-item">
                                 <a href="#">Business
-                                <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
-  <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2"/>
-  <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2"/>
-  <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2"/>
-</svg>
+                                    <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+                                        <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                        <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                        <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                    </svg>
                                 </a>
                             </li>
                             <li class="list-group-item">
                                 <a href="#">Enginneering
-                                <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
-  <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2"/>
-  <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2"/>
-  <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2"/>
-</svg>
+                                    <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+                                        <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                        <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                        <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                    </svg>
                                 </a>
                             </li>
                             <li class="list-group-item">
                                 <a href="#">
                                     Mission
                                     <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
-  <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2"/>
-  <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2"/>
-  <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2"/>
-</svg>
+                                        <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                        <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                        <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                    </svg>
                                 </a>
                             </li>
                             <li class="list-group-item">
                                 <a href="#">
                                     Consulting
                                     <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
-  <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2"/>
-  <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2"/>
-  <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2"/>
-</svg>
+                                        <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                        <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                        <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                    </svg>
                                 </a>
                             </li>
                         </ul>
 
-                       
+
                     </div>
                     <div class="tab-pane fade" style="background-color:#1E49E2" id="v-pills-diversity" role="tabpanel"
                         aria-labelledby="v-pills-diversity-tab" tabindex="0">
