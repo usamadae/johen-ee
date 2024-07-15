@@ -3001,6 +3001,36 @@ section.why-hpit-unique .why-hpit-height a.defaultBtn {
  #clientSlide .slick-list {
     margin-left:-27px;
   }
+
+
+  .latest_news {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 0 10px;
+    margin-bottom: 30px;
+}
+
+.latest_block {
+    width: 30%;
+}
+
+.latest_block img {
+    width:100%;
+}
+
+.latest_block_content {
+    width: 70%;
+}
+
+.latest_block_content h6 {
+    font-size: 18px;
+    margin:0;
+}
+
+.latest_block_content p {
+    font-size: 16px;
+}
 @media (pointer: coarse) {
     #js-pointer-detector {
         display: block;

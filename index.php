@@ -234,8 +234,7 @@
                     <div class="position-relative">
                         <div class="client_side">
                             <div class="clint_side_img">
-                                <img src="https://www.infoblox.com/wp-content/uploads/challenge-1-desktop.png"
-                                    class="img-fluid" alt="image">
+                                <img src="assets/img/assets/Images-01.png" class="img-fluid" alt="image">
                             </div>
                             <div class="clint_side_content">
                                 <svg width="36" height="30" viewBox="0 0 36 30" fill="none"
@@ -250,10 +249,9 @@
                         </div>
                     </div>
                     <div class="position-relative">
-                    <div class="client_side">
+                        <div class="client_side">
                             <div class="clint_side_img">
-                                <img src="https://www.infoblox.com/wp-content/uploads/challenge-1-desktop.png"
-                                    class="img-fluid" alt="image">
+                                <img src="assets/img/assets/Images-02.png" class="img-fluid" alt="image">
                             </div>
                             <div class="clint_side_content">
                                 <svg width="36" height="30" viewBox="0 0 36 30" fill="none"
@@ -268,10 +266,9 @@
                         </div>
                     </div>
                     <div class="position-relative">
-                    <div class="client_side">
+                        <div class="client_side">
                             <div class="clint_side_img">
-                                <img src="https://www.infoblox.com/wp-content/uploads/challenge-1-desktop.png"
-                                    class="img-fluid" alt="image">
+                                <img src="assets/img/assets/Images-03.png" class="img-fluid" alt="image">
                             </div>
                             <div class="clint_side_content">
                                 <svg width="36" height="30" viewBox="0 0 36 30" fill="none"
@@ -286,10 +283,9 @@
                         </div>
                     </div>
                     <div class="position-relative">
-                    <div class="client_side">
+                        <div class="client_side">
                             <div class="clint_side_img">
-                                <img src="https://www.infoblox.com/wp-content/uploads/challenge-1-desktop.png"
-                                    class="img-fluid" alt="image">
+                                <img src="assets/img/assets/Images-04.png" class="img-fluid" alt="image">
                             </div>
                             <div class="clint_side_content">
                                 <svg width="36" height="30" viewBox="0 0 36 30" fill="none"
@@ -304,10 +300,9 @@
                         </div>
                     </div>
                     <div class="position-relative">
-                    <div class="client_side">
+                        <div class="client_side">
                             <div class="clint_side_img">
-                                <img src="https://www.infoblox.com/wp-content/uploads/challenge-1-desktop.png"
-                                    class="img-fluid" alt="image">
+                                <img src="assets/img/assets/Images-01.png" class="img-fluid" alt="image">
                             </div>
                             <div class="clint_side_content">
                                 <svg width="36" height="30" viewBox="0 0 36 30" fill="none"
@@ -322,10 +317,9 @@
                         </div>
                     </div>
                     <div class="position-relative">
-                    <div class="client_side">
+                        <div class="client_side">
                             <div class="clint_side_img">
-                                <img src="https://www.infoblox.com/wp-content/uploads/challenge-1-desktop.png"
-                                    class="img-fluid" alt="image">
+                                <img src="assets/img/assets/Images-02.png" class="img-fluid" alt="image">
                             </div>
                             <div class="clint_side_content">
                                 <svg width="36" height="30" viewBox="0 0 36 30" fill="none"
@@ -340,10 +334,9 @@
                         </div>
                     </div>
                     <div class="position-relative">
-                    <div class="client_side">
+                        <div class="client_side">
                             <div class="clint_side_img">
-                                <img src="https://www.infoblox.com/wp-content/uploads/challenge-1-desktop.png"
-                                    class="img-fluid" alt="image">
+                                <img src="assets/img/assets/Images-03.png" class="img-fluid" alt="image">
                             </div>
                             <div class="clint_side_content">
                                 <svg width="36" height="30" viewBox="0 0 36 30" fill="none"
@@ -358,10 +351,9 @@
                         </div>
                     </div>
                     <div class="position-relative">
-                    <div class="client_side">
+                        <div class="client_side">
                             <div class="clint_side_img">
-                                <img src="https://www.infoblox.com/wp-content/uploads/challenge-1-desktop.png"
-                                    class="img-fluid" alt="image">
+                                <img src="assets/img/assets/Images-04.png" class="img-fluid" alt="image">
                             </div>
                             <div class="clint_side_content">
                                 <svg width="36" height="30" viewBox="0 0 36 30" fill="none"
@@ -734,58 +726,162 @@
                     <div class="news-content-slider">
                         <div id="news-content-slider">
                             <div class="position-relative">
-                                <ul>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, </li>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, </li>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, </li>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, </li>
-                                </ul>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top2.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top3.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top4.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
 
 
                             </div>
                             <div class="position-relative">
-                                <ul>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, </li>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, </li>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, </li>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, </li>
-                                </ul>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
 
 
                             </div>
                             <div class="position-relative">
-                                <ul>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, </li>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, </li>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, </li>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, </li>
-                                </ul>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
 
 
                             </div>
                             <div class="position-relative">
-                                <ul>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, </li>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, </li>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, </li>
-                                    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, </li>
-                                </ul>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
 
 
                             </div>
@@ -803,81 +899,121 @@
                     <div class="news-content-slider">
                         <div id="press-content-slider">
                             <div class="position-relative">
-                                <ul>
-
-
-                                    <a class="defaultBtn mt-3" href="#">Lorem</a>
-                                    <li>
-
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    </li>
-                                    <a class="defaultBtn mt-3" href="#">Lorem</a>
-                                    <li>
-
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    </li>
-                                    <a class="defaultBtn mt-3" href="#">Lorem</a>
-                                    <li>
-
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    </li>
-
-                                </ul>
-
-
-                            </div>
-                            <div class="position-relative">
-                                <ul>
-
-
-                                    <a class="defaultBtn mt-3" href="#">Lorem</a>
-                                    <li>
-
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    </li>
-                                    <a class="defaultBtn mt-3" href="#">Lorem</a>
-                                    <li>
-
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    </li>
-                                    <a class="defaultBtn mt-3" href="#">Lorem</a>
-                                    <li>
-
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    </li>
-                                </ul>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top1.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
 
 
                             </div>
                             <div class="position-relative">
-                                <ul>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top2.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top2.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top2.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top2.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
 
-                                    <a class="defaultBtn mt-3" href="#">Lorem</a>
-                                    <li>
-
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    </li>
-                                    <a class="defaultBtn mt-3" href="#">Lorem</a>
-                                    <li>
-
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    </li>
-                                    <a class="defaultBtn mt-3" href="#">Lorem</a>
-                                    <li>
-
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    </li>
-                                </ul>
-
+                            </div>
+                            <div class="position-relative">
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top3.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top3.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top3.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
+                                <div class="latest_news">
+                                    <div class="latest_block">
+                                        <img src="assets/img/assets/top3.png" alt="image">
+                                    </div>
+                                    <div class="latest_block_content">
+                                        <h6>Lorem Ipsum</h3>
+                                            <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                                    </div>
+                                </div>
 
                             </div>
 
