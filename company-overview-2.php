@@ -89,11 +89,11 @@
     <section class="bg-white ctaSec-2 overview-team">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-3">
+                <div class="col-lg-4">
                     <img src="assets/img/assets/overview-team.png" alt="">
                 </div>
-                <div class="col-lg-8">
-                    <h3>Lorem Ipsum is simply dummy text</h3>
+                <div class="col-lg-7 bg-start-loreem">
+                    <h3>Lorem Ipsum is simply dummy</h3>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
                         the industry's standard dummy text ever since the 1500s</p>
                 </div>
@@ -105,7 +105,7 @@
         <div class="container" bis_skin_checked="1">
             <div class="row" bis_skin_checked="1">
                 <h2 class="sectionHead pb-5">Lorem Ipsum&nbsp;is <span>simply dummy text</span></h2>
-                <div class="col-lg-3" bis_skin_checked="1">
+                <div class="col-lg-4" bis_skin_checked="1">
                     <div class="list_toggle_flex">
                         <div>
                             <h3 class="over-h3">What We Believe</h3>
@@ -117,7 +117,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-9 border-start-pad" bis_skin_checked="1">
+                <div class="col-lg-8 border-start-pad" bis_skin_checked="1">
                     <h3 class="section_head2">our core value</h3>
                     <p class="text-start">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown
@@ -307,7 +307,7 @@
     <div class="container" bis_skin_checked="1">
         <div class="row" bis_skin_checked="1">
 
-            <div class="col-lg-3" bis_skin_checked="1">
+            <div class="col-lg-4" bis_skin_checked="1">
                 <div class="list_toggle_flex">
                     <div>
                         <h3 class="over-h3">Who We Are</h3>
@@ -319,7 +319,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-9 border-start-pad" bis_skin_checked="1">
+            <div class="col-lg-8 border-start-pad" bis_skin_checked="1">
                 <h3 class="section_head2">Lorem Ipsum is simply dummy</h3>
                 <p class="text-start">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged</p>
                 <div class="hidden-para" id="para2">
@@ -472,7 +472,7 @@
     <div class="container" bis_skin_checked="1">
         <div class="row" bis_skin_checked="1">
 
-            <div class="col-lg-3" bis_skin_checked="1">
+            <div class="col-lg-4" bis_skin_checked="1">
                 <div class="list_toggle_flex">
                     <div>
                         <h3 class="over-h3">What We Do</h3>
@@ -484,7 +484,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-9 border-start-pad" bis_skin_checked="1">
+            <div class="col-lg-8 border-start-pad" bis_skin_checked="1">
                 <h3 class="section_head2">Lorem Ipsum is simply dummy</h3>
                 <p class="text-start">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged</p>
                 <div class="hidden-para" id="para3">
@@ -533,7 +533,7 @@
         <div class="container" bis_skin_checked="1">
             <div class="row" bis_skin_checked="1">
 
-                <div class="col-lg-3" bis_skin_checked="1">
+                <div class="col-lg-4" bis_skin_checked="1">
                  
                     <div class="list_toggle_flex">
                         <div>
@@ -554,7 +554,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-9 border-start-pad py-5"  bis_skin_checked="1">
+                <div class="col-lg-8 border-start-pad py-5"  bis_skin_checked="1">
                 <h3 class="section_head2">Lorem Ipsum is simply dummy</h3>
                     <p class="text-start">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
@@ -599,7 +599,7 @@
         <div class="container" bis_skin_checked="1">
             <div class="row" bis_skin_checked="1">
 
-                <div class="col-lg-3" bis_skin_checked="1">
+                <div class="col-lg-4" bis_skin_checked="1">
               
                     <div class="list_toggle_flex">
                         <div>
@@ -612,7 +612,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-9 border-start-pad" bis_skin_checked="1">
+                <div class="col-lg-8 border-start-pad" bis_skin_checked="1">
                     <h3 class="section_head2">Expertise that spans markets</h3>
                     <p class="text-start">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>

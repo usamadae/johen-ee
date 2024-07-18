@@ -1279,10 +1279,20 @@ div#spotLightSlide .position-relative button.link-btn{
     display: none !important;
     transition: 0.3s linear all; 
     }
+
+    div#spotLightSlide .position-relative p{
+        display: none !important;
+    }
+
+    div#spotLightSlide .position-relative:hover p{
+        display: block !important;
+    }
+
 div#spotLightSlide .position-relative:hover button.link-btn{
 
 
 display: block !important;
+margin-left: auto;
 }
 
 div#spotLightSlide .position-relative:before {
@@ -1315,11 +1325,18 @@ div#spotLightSlide .position-relative:before {
     height: 100%;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    align-items: flex-start;
+    justify-content: end;
     position: absolute;
     top: 0;
     cursor: pointer;
+ }
+
+ div#spotLightSlide .position-relative:hover .textData{
+    
+    align-items: center;
+ 
+
  }
  
  div#spotLightSlide .position-relative:hover .textData{
@@ -1550,6 +1567,11 @@ li.more.show2 ul {
 ul.links i{
     transition: 0.5s linear all !important;
     
+}
+
+.bg-start-loreem {
+    border-left: 1px solid white;
+    padding-left: 20px; 
 }
 
 /* Company Page */
@@ -3030,6 +3052,114 @@ section.why-hpit-unique .why-hpit-height a.defaultBtn {
 
 .latest_block_content p {
     font-size: 16px;
+}
+
+
+.help_grid {
+    display: grid;
+    grid-auto-flow: row;
+    grid-gap: 2.5rem 2.5rem;
+    grid-template-columns: repeat(2, minmax(0, 20rem));
+    grid-template-rows: repeat(2, minmax(0, 20rem));
+    min-height: 25rem;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.help_block {
+    height: 192px;
+    width: 192px;
+    background-color: #009ad6;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    position: absolute;
+    transition: 0.3s linear all;
+}
+
+.help_block a svg{
+    display: none ;
+}
+
+.help_block h3 {
+    font-size: 18px !important;
+}
+
+.help_block p {
+    font-size: 16px !important;
+}
+
+.help_block p {
+    color: white !important;
+}
+
+.img_help{
+    width: 100%;
+    margin: 20px 0;
+}
+.help_grid_block {
+    position: relative;
+    transition: 0.3s linear all;
+}
+
+
+.help_block.active {
+    width: 100%;
+    height: 100%;
+}
+
+.help_block.active a svg{
+display: block !important;
+}
+
+.help_block.active .btn_svg{
+display: none !important;
+}
+
+.help_content h6{
+    font-size: 18px !important;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-family: var(--sanspro);
+}
+
+.help_content p{
+    font-size: 16px !important;
+    font-family: var(--oswald);
+}
+.help_content h4{
+    font-size: 28px !important;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-family: var(--sanspro);
+}
+
+/* Define the fade-in animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+/* Add fade-in animation to the .help_block.active p element */
+.help_block.active p {
+    display: block !important;
+    animation: fadeIn 0.5s ease-in-out; /* Adjust the duration and timing function as needed */
+    opacity: 1;
+}
+
+.help_block.active h3{
+font-size: 26px !important;
+}
+
+
+.help_block svg{
+    cursor: pointer;
 }
 @media (pointer: coarse) {
     #js-pointer-detector {

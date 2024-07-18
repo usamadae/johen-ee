@@ -376,264 +376,115 @@
 
 
 
-    <section id="section4" class="bg-white bg-padding bg-star-left-black">
+    <section id="section4" class="bg-white bg-padding">
         <div class="container">
             <h2 class="sectionHead">How Can <span>We Help</span></h2>
-            <div class="d-flex align-items-stretch">
-                <div class="nav flex-row nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-
-                    <button class="nav-link active" id="v-pills-profile-tab" style="background-color:#03072B"
-                        data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab"
-                        aria-controls="v-pills-profile" aria-selected="false">
-                        <svg width="4" height="54" viewBox="0 0 4 54" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <rect x="4" width="54" height="4" rx="2" transform="rotate(90 4 0)" fill="white" />
-                        </svg>
-
-
-                        Why HPIT</button>
-
-                    <button class="nav-link" id="v-pills-messages-tab" style="background-color:#00338D"
-                        data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab"
-                        aria-controls="v-pills-messages" aria-selected="false">
-                        <svg width="4" height="54" viewBox="0 0 4 54" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <rect x="4" width="54" height="4" rx="2" transform="rotate(90 4 0)" fill="white" />
-                        </svg>
-                        Who We Are</button>
-                    <button class="nav-link whatwe" id="v-pills-settings-tab"
-                        style="background-color:#F3F3F3; color:black;" data-bs-toggle="pill"
-                        data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings"
-                        aria-selected="false">
-                        <svg width="4" height="54" viewBox="0 0 4 54" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <rect x="4" width="54" height="4" rx="2" transform="rotate(90 4 0)" fill="black" />
-                        </svg>
-
-                        What We Do
-                    </button>
-                    <button class="nav-link diversity" id="v-pills-diversity-tab" style="background-color:#1E49E2;"
-                        data-bs-toggle="pill" data-bs-target="#v-pills-diversity" type="button" role="tab"
-                        aria-controls="v-pills-diversity" aria-selected="false">
-                        <svg width="4" height="54" viewBox="0 0 4 54" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <rect x="4" width="54" height="4" rx="2" transform="rotate(90 4 0)" fill="white" />
-                        </svg>
-
-                        Diversity, Equity & Inclusion
-                    </button>
-                    <button class="nav-link" id="v-pills-culture-tab" style="background-color:#0CD3FF;"
-                        data-bs-toggle="pill" data-bs-target="#v-pills-culture" type="button" role="tab"
-                        aria-controls="v-pills-culture" aria-selected="false">
-                        <svg width="4" height="54" viewBox="0 0 4 54" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <rect x="4" width="54" height="4" rx="2" transform="rotate(90 4 0)" fill="white" />
-                        </svg>
-
-                        Our Culture
-                    </button>
-                    <button class="nav-link" id="v-pills-Sustainability-tab" style="background-color:black;"
-                        data-bs-toggle="pill" data-bs-target="#v-pills-Sustainability" type="button" role="tab"
-                        aria-controls="v-pills-Sustainability" aria-selected="false">
-                        <svg width="4" height="54" viewBox="0 0 4 54" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <rect x="4" width="54" height="4" rx="2" transform="rotate(90 4 0)" fill="white" />
-                        </svg>
-
-                        Sustainability
-                    </button>
+            <div class="row">
+                <div class="col-lg-6 help_content">
+                    <h6>WHAT WE DO</h6>
+                    <img src="assets/img/assets/help.jpg" class="img_help" alt="help">
+                    <h4>A look inside our toolbox</h4>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                    <a class="defaultBtn mt-3" href="#">Learn more</a>
                 </div>
-                <div class="tab-content" id="v-pills-tabContent">
+                <div class="col-lg-6">
+                    <div class="help_grid">
 
-                    <div class="tab-pane fade show active" style="background-color:#03072B" id="v-pills-profile"
-                        role="tabpanel" aria-labelledby="v-pills-profile-tab" tabindex="0">
-                        <h3>Why HPIT</h3>
-                        <svg width="137" height="4" viewBox="0 0 137 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <rect width="137" height="4" rx="2" fill="white" />
-                        </svg>
-
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                            galley of type and scrambled it to make a type specimen book. It has survived not only five
-                            centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum
-                            passages,</p>
-
-                        <a style="
-                        background-color: #050E5C;
-    border: 1px solid white;
-    color: white;
-    text-decoration: none;
-    padding: 10px 40px;
-    display: inline-block;
-    margin-top: 10px;
-
-                        " href="#">Learn More</a>
-
-                    </div>
-
-                    <div class="tab-pane fade" style="background-color:#00338D" id="v-pills-messages" role="tabpanel"
-                        aria-labelledby="v-pills-messages-tab" tabindex="0">
-                        <h3>Who We Are</h3>
-                        <svg width="137" height="4" viewBox="0 0 137 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <rect width="137" height="4" rx="2" fill="white" />
-                        </svg>
-
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                            galley of type and scrambled it to make a type specimen book. It has survived not only five
-                            centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum
-                            passages,</p>
-
-                        <a style="
-                        background-color: #1359D4;
-    border: 1px solid white;
-    color: white;
-    text-decoration: none;
-    padding: 10px 40px;
-    display: inline-block;
-    margin-top: 10px;
-
-                        " href="#">Learn More</a>
-                    </div>
-                    <div class="tab-pane fade" style="background-color:#F3F3F3" id="v-pills-settings" role="tabpanel"
-                        aria-labelledby="v-pills-settings-tab" tabindex="0">
-                        <h3 class="text-dark">What We Do</h3>
-                        <svg width="100" height="4" viewBox="0 0 305 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <rect width="305" height="4" rx="2" fill="black" />
-                        </svg>
-
-
-                        <ul class="list-group list-group-flush">
-                            <li class="list-group-item">
-                                <a href="#">Technology <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
-                                        <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2" />
-                                        <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2" />
-                                        <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2" />
-                                    </svg>
-
-
-                                </a>
-                            </li>
-                            <li class="list-group-item">
-                                <a href="#">Business
-                                    <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
-                                        <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2" />
-                                        <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2" />
-                                        <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2" />
-                                    </svg>
-                                </a>
-                            </li>
-                            <li class="list-group-item">
-                                <a href="#">Enginneering
-                                    <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
-                                        <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2" />
-                                        <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2" />
-                                        <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2" />
-                                    </svg>
-                                </a>
-                            </li>
-                            <li class="list-group-item">
+                        <div class="help_grid_block">
+                            <div class="help_block active" style="bottom: 0; right: 0;">
+                                <h3>Technology </h3>
+                                <p class="d-none">Lorem Ipsum is simply dummy text of the printing and typesetting
+                                    industry.
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                                <svg class="btn_svg" width="30px" height="30px" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M4 12H20M12 4V20" stroke="#e40000" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                </svg>
                                 <a href="#">
-                                    Mission
-                                    <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
-                                        <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2" />
-                                        <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2" />
-                                        <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                    <svg fill="#000000" width="50px" height="50px" viewBox="0 0 24 24"
+                                        id="right-arrow-direction-square" xmlns="http://www.w3.org/2000/svg"
+                                        class="icon line">
+                                        <path id="primary"
+                                            d="M3,20V4A1,1,0,0,1,4,3H20a1,1,0,0,1,1,1V20a1,1,0,0,1-1,1H4A1,1,0,0,1,3,20Zm4-8h5m4.63-.69L13.5,9.17a1,1,0,0,0-1.5.69v4.28a1,1,0,0,0,1.5.69l3.12-2.14A.82.82,0,0,0,16.63,11.31Z"
+                                            style="fill: none; stroke: white; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.5;">
+                                        </path>
                                     </svg>
                                 </a>
-                            </li>
-                            <li class="list-group-item">
+                            </div>
+                        </div>
+
+                        <div class="help_grid_block">
+                            <div class="help_block" style="bottom: 0; left: 0;">
+                                <h3>Business</h3>
+                                <p class="d-none">Lorem Ipsum is simply dummy text of the printing and typesetting
+                                    industry.
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                                <svg class="btn_svg" width="30px" height="30px" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M4 12H20M12 4V20" stroke="#e40000" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                </svg>
                                 <a href="#">
-                                    Consulting
-                                    <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
-                                        <line x1="2" y1="10" x2="18" y2="10" stroke="black" stroke-width="2" />
-                                        <line x1="14" y1="6" x2="18" y2="10" stroke="black" stroke-width="2" />
-                                        <line x1="14" y1="14" x2="18" y2="10" stroke="black" stroke-width="2" />
+                                    <svg fill="#000000" width="50px" height="50px" viewBox="0 0 24 24"
+                                        id="right-arrow-direction-square" xmlns="http://www.w3.org/2000/svg"
+                                        class="icon line">
+                                        <path id="primary"
+                                            d="M3,20V4A1,1,0,0,1,4,3H20a1,1,0,0,1,1,1V20a1,1,0,0,1-1,1H4A1,1,0,0,1,3,20Zm4-8h5m4.63-.69L13.5,9.17a1,1,0,0,0-1.5.69v4.28a1,1,0,0,0,1.5.69l3.12-2.14A.82.82,0,0,0,16.63,11.31Z"
+                                            style="fill: none; stroke: white; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.5;">
+                                        </path>
                                     </svg>
                                 </a>
-                            </li>
-                        </ul>
-
-
-                    </div>
-                    <div class="tab-pane fade" style="background-color:#1E49E2" id="v-pills-diversity" role="tabpanel"
-                        aria-labelledby="v-pills-diversity-tab" tabindex="0">
-                        <h3>Diversity, Equity & Inclusion</h3>
-
-                        <svg width="137" height="4" viewBox="0 0 137 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <rect width="137" height="4" rx="2" fill="white" />
-                        </svg>
-
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-                            industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer
-                            took a
-                            galley of type and scrambled it to make a type specimen book. It has survived not only
-                            five
-                            centuries, but also the leap into electronic typesetting, remaining essentially
-                            unchanged.
-                            It was popularised in the 1960s with the release of Letraset sheets containing Lorem
-                            Ipsum
-                            passages,</p>
-
-
-                        <a style="
-                        background-color: #032FCD;
-    border: 1px solid white;
-    color: white;
-    text-decoration: none;
-    padding: 10px 40px;
-    display: inline-block;
-    margin-top: 10px;
-
-                        " href="#">Learn More</a>
-                    </div>
-
-                    <div class="tab-pane fade" style="background-color:#0CD3FF" id="v-pills-culture" role="tabpanel"
-                        aria-labelledby="v-pills-culture-tab" tabindex="0">
-                        <h3>Our Culture</h3>
-                        <svg width="137" height="4" viewBox="0 0 137 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <rect width="137" height="4" rx="2" fill="white" />
-                        </svg>
-
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                            galley of type and scrambled it to make a type specimen book. It has survived not only five
-                            centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum
-                            passages,</p>
-
-                        <a style="
-                        background-color: #00A8CD;
-    border: 1px solid white;
-    color: white;
-    text-decoration: none;
-    padding: 10px 40px;
-    display: inline-block;
-    margin-top: 10px;
-
-                        " href="#">Learn More</a>
-                    </div>
-                    <div class="tab-pane fade" style="background-color:black" id="v-pills-Sustainability"
-                        role="tabpanel" aria-labelledby="v-pills-Sustainability-tab" tabindex="0">
-                        <h3>Sustainability</h3>
-                        <svg width="137" height="4" viewBox="0 0 137 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <rect width="137" height="4" rx="2" fill="white" />
-                        </svg>
-
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                            galley of type and scrambled it to make a type specimen book. It has survived not only five
-                            centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum
-                            passages,</p>
-
-                        <a style="
-                        background-color: #0D1111;
-    border: 1px solid white;
-    color: white;
-    text-decoration: none;
-    padding: 10px 40px;
-    display: inline-block;
-    margin-top: 10px;
-
-                        " href="#">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="help_grid_block">
+                            <div class="help_block" style="top: 0; right: 0;">
+                                <h3>Engineering </h3>
+                                <p class="d-none">Lorem Ipsum is simply dummy text of the printing and typesetting
+                                    industry.
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                                <svg class="btn_svg" width="30px" height="30px" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M4 12H20M12 4V20" stroke="#e40000" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                </svg>
+                                <a href="#">
+                                    <svg fill="#000000" width="50px" height="50px" viewBox="0 0 24 24"
+                                        id="right-arrow-direction-square" xmlns="http://www.w3.org/2000/svg"
+                                        class="icon line">
+                                        <path id="primary"
+                                            d="M3,20V4A1,1,0,0,1,4,3H20a1,1,0,0,1,1,1V20a1,1,0,0,1-1,1H4A1,1,0,0,1,3,20Zm4-8h5m4.63-.69L13.5,9.17a1,1,0,0,0-1.5.69v4.28a1,1,0,0,0,1.5.69l3.12-2.14A.82.82,0,0,0,16.63,11.31Z"
+                                            style="fill: none; stroke: white; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.5;">
+                                        </path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="help_grid_block">
+                            <div class="help_block" style="top: 0; left: 0;">
+                                <h3>Mission </h3>
+                                <p class="d-none">Lorem Ipsum is simply dummy text of the printing and typesetting
+                                    industry.
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                                <svg class="btn_svg" width="30px" height="30px" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M4 12H20M12 4V20" stroke="#e40000" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                </svg>
+                                <a href="#">
+                                    <svg fill="#000000" width="50px" height="50px" viewBox="0 0 24 24"
+                                        id="right-arrow-direction-square" xmlns="http://www.w3.org/2000/svg"
+                                        class="icon line">
+                                        <path id="primary"
+                                            d="M3,20V4A1,1,0,0,1,4,3H20a1,1,0,0,1,1,1V20a1,1,0,0,1-1,1H4A1,1,0,0,1,3,20Zm4-8h5m4.63-.69L13.5,9.17a1,1,0,0,0-1.5.69v4.28a1,1,0,0,0,1.5.69l3.12-2.14A.82.82,0,0,0,16.63,11.31Z"
+                                            style="fill: none; stroke: white; stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.5;">
+                                        </path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                   
                     </div>
                 </div>
             </div>
