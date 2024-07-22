@@ -3161,6 +3161,57 @@ font-size: 26px !important;
 .help_block svg{
     cursor: pointer;
 }
+
+.realeated-capability-bg-gray {
+    background-color: #f3f3f3 !important;
+}
+
+.realeated-capability-bg-gray .block-box {
+    background-color:white !important;
+}
+
+.army_p p {
+    font-size: 30px !important;
+    text-align: left ! IMPORTANT;
+    text-transform: uppercase;
+    font-weight: 600 !IMPORTANT;
+}
+
+.army_p hr {
+    color: black;
+    opacity: 1;
+    margin: 50px 0;
+}
+
+p.army-c{
+    font-size: 22px !important;
+    line-height: 32px !important;
+    font-weight: 700 !important;
+    text-align: left !important;
+}
+
+
+.arrmy_normal_P{
+    font-size: 18px !important;
+    text-align: left !important;
+    line-height: 28px !important;
+}
+
+.army_h3{
+    font-size: 30px !important;
+    font-weight: 600 !important;
+    margin: 30px 0 !important;
+}
+
+h3.army_h3.mt-0 {
+    margin-top: 0 !important;
+}
+
+
+.armey-white_block {
+    background-color: white;
+    padding: 50px;
+}
 @media (pointer: coarse) {
     #js-pointer-detector {
         display: block;

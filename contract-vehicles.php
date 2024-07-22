@@ -760,7 +760,7 @@
 
 
 
-    <section class="realeated-capability bg-star-left-blue py-5">
+    <section class="realeated-capability bg-star-left-blue py-5 realeated-capability-bg-gray">
         <div class="container">
             <h2 class="sectionHead">Related <span>capabilities</span></h2>
             <div class="row g-5 pt-5 ">
@@ -771,7 +771,9 @@
                         <p>Explore our blockchain capabilities you can implement today and alliances to join to
                             future-proof your business.
                         </p>
+                        <a class="defaultBtn mt-3" href="#">Learn more</a>
                     </div>
+                    
                 </div>
                 <div class="col-lg-4">
                     <div class="block-box">
@@ -780,6 +782,7 @@
                         <p>Cloud is a key aspect of any blockchain solution. Understand what cloud is and what it can do
                             for you.
                         </p>
+                        <a class="defaultBtn mt-3" href="#">Learn more</a>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -790,6 +793,7 @@
                             power up you drive business value.
 
                         </p>
+                        <a class="defaultBtn mt-3" href="#">Learn more</a>
                     </div>
                 </div>
             </div>
@@ -801,6 +805,7 @@
                         <p>Explore our blockchain capabilities you can implement today and alliances to join to
                             future-proof your business.
                         </p>
+                        <a class="defaultBtn mt-3" href="#">Learn more</a>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -810,10 +815,25 @@
                         <p>Cloud is a key aspect of any blockchain solution. Understand what cloud is and what it can do
                             for you.
                         </p>
+                        <a class="defaultBtn mt-3" href="#">Learn more</a>
                     </div>
                 </div>
 
             </div>
+    </section>
+    <section class="ctaSec">
+        <div class="container" bis_skin_checked="1">
+            <div class="row" bis_skin_checked="1">
+                <div class="col-md-9 m-auto text-center" bis_skin_checked="1">
+                    <h3>
+                        Let's Talk About
+                        How We Could Work
+                        Together
+                    </h3>
+                    <a class="defaultBtn mt-3" href="#">CONTACT HPIT</a>
+                </div>
+            </div>
+        </div>
     </section>
     <?php include 'components/footer.php'; ?>
     <?php include 'layouts/body.php'; ?>
