@@ -382,7 +382,22 @@
             <div class="row">
                 <div class="col-lg-6 help_content">
                     <h6>WHAT WE DO</h6>
-                    <img src="assets/img/assets/help.jpg" class="img_help" alt="help">
+                    <div class="row py-2 company-overview-video">
+                        <div class="video">
+                            <span class="home-video-close is-hidden" onclick="videoStop()">&times;</span>
+                            <div class="videoWrapper videoWrapper169 js-videoWrapper">
+
+                                <iframe class="videoIframe js-videoIframe" src="" frameborder="0"
+                                    allowTransparency="true" allowfullscreen
+                                    data-src="https://player.vimeo.com/video/189360311?autoplay=1&title=0&byline=0&portrait=0&share=0"></iframe>
+
+                                <button class="videoPoster js-videoPoster"
+                                    style="background-image:url('assets/img/assets/join-video.jpg');">Play
+                                    video</button>
+
+                            </div>
+                        </div>
+                    </div>
                     <h4>A look inside our toolbox</h4>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -484,7 +499,7 @@
                                 </a>
                             </div>
                         </div>
-                   
+
                     </div>
                 </div>
             </div>
@@ -536,7 +551,7 @@
                 </div>
             </div>
         </div> -->
-        <section class="diversity">
+        <!-- <section class="diversity">
             <div class="container" bis_skin_checked="1">
                 <div class="row align-items-end" bis_skin_checked="1">
                     <div class="content-image" bis_skin_checked="1">
@@ -558,6 +573,96 @@
                             <a class="defaultBtn mt-3" href="#">Join Our Talent Network</a>
                         </div>
                     </div>
+                </div>
+            </div>
+        </section>
+    </section> -->
+
+        <section class="diversity">
+            <div class="container" bis_skin_checked="1">
+            <h2 class="sectionHead gh">Join<span>The Team</span></h2>
+                <div class="row align-items-end" bis_skin_checked="1">
+
+                    <div class="content" bis_skin_checked="1">
+
+                        <div class="content-card" bis_skin_checked="1">
+                            <div class="content_img">
+                                <img src="assets/img/assets/join-2.jpg" alt="image">
+                            </div>
+                            <div>
+                                <h2 class="sectionHead">Why <span>HPIT</span></h2>
+                                <p class="subPera">
+                                    We break out of silos and look beyond individual tasks, ensuring every piece of the
+                                    puzzle is in
+                                    place and performing the way it should.
+                                  
+
+                                </p>
+                                <a class="defaultBtn mt-3" href="#">Join Our Talent Network</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="content" bis_skin_checked="1">
+
+                        <div class="content-card" style="top:50px" bis_skin_checked="1">
+                            <div class="content_img">
+                                <img src="assets/img/assets/join2.jpg" alt="image">
+                            </div>
+                            <div>
+                                <h2 class="sectionHead">Who <span>We Are</span></h2>
+                                <p class="subPera">
+                                    We break out of silos and look beyond individual tasks, ensuring every piece of the
+                                    puzzle is in
+                                    place and performing the way it should.
+                                  
+
+                                </p>
+                                <a class="defaultBtn mt-3" href="#">Join Our Talent Network</a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="content" bis_skin_checked="1">
+
+<div class="content-card" bis_skin_checked="1">
+    <div class="content_img">
+        <img src="assets/img/assets/join3.jpg" alt="image">
+    </div>
+    <div>
+        <h2 class="sectionHead">Our <span>Career</span></h2>
+        <p class="subPera">
+            We break out of silos and look beyond individual tasks, ensuring every piece of the
+            puzzle is in
+            place and performing the way it should.
+           
+
+        </p>
+        <a class="defaultBtn mt-3" href="#">Join Our Talent Network</a>
+    </div>
+</div>
+</div>
+
+<div class="content" bis_skin_checked="1">
+
+<div class="content-card" style="top:50px" bis_skin_checked="1">
+    <div class="content_img">
+        <img src="assets/img/assets/join4.jpg" alt="image">
+    </div>
+    <div>
+        <h2 class="sectionHead">Join the  <span>Network</span></h2>
+        <p class="subPera">
+            We break out of silos and look beyond individual tasks, ensuring every piece of the
+            puzzle is in
+            place and performing the way it should.
+   
+
+        </p>
+        <a class="defaultBtn mt-3" href="#">Join Our Talent Network</a>
+    </div>
+</div>
+</div>
                 </div>
             </div>
         </section>

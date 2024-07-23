@@ -102,10 +102,10 @@
                         the industry's standard dummy text ever since the 1500s,Lorem Ipsum&nbsp;is simply dummy text of the
                         printing .
                     </p>
-                    <a class="defaultBtn mt-3" href="our-leaders.php">Contact Us</a>
+                    <a class="defaultBtn mt-3" href="our-leaders.php">Learn more </a>
                 </div>    
             <div class="col-md-6" bis_skin_checked="1">
-                    <img class="w-100" src="assets/img/company/ourleaders.png" alt="Our Leader">
+                    <img class="w-100" src="assets/img/company/ourleaders.jpg" alt="Our Leader">
                 </div>
             </div>
         </div>
@@ -118,7 +118,7 @@
                 <div class="col-lg-8 why-hpit-height">
                     <h3>1. Develop Your Strategic Point of View</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit quod culpa repellat tenetur? Veritatis dolore suscipit dolorem! </p>
-                    <a class="defaultBtn mt-3" href="our-leaders.php">Contact Us</a>
+                    <a class="defaultBtn mt-3" href="our-leaders.php">Learn more </a>
                 </div>
             </div>
            
@@ -161,7 +161,7 @@
             <div class="col-lg-8 why-hpit-height">
                     <h3>1. Develop Your Strategic Point of View</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit quod culpa repellat tenetur? Veritatis dolore suscipit dolorem! </p>
-                    <a class="defaultBtn mt-3" href="our-leaders.php">Contact Us</a>
+                    <a class="defaultBtn mt-3" href="our-leaders.php">Learn more </a>
                 </div>
                 <div class="col-lg-4"></div>
              
@@ -175,7 +175,7 @@
         <div class="row">
         <div class="col-lg-8 img-why right">
                     <div class="main-block-img">
-                        <img src="assets/img/assets/why-hpit-2.jpg" alt="team">
+                        <img src="assets/img/assets/why-hpit-4.jpg" alt="team">
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -199,7 +199,7 @@
         </div>
     </section>
 
-
+   
     <section class="why-hpit-unique">
         <div class="container">
             <div class="row">
@@ -207,7 +207,7 @@
                 <div class="col-lg-8 why-hpit-height">
                     <h3>1. Develop Your Strategic Point of View</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit quod culpa repellat tenetur? Veritatis dolore suscipit dolorem! </p>
-                    <a class="defaultBtn mt-3" href="our-leaders.php">Contact Us</a>
+                    <a class="defaultBtn mt-3" href="our-leaders.php">Learn more </a>
                 </div>
             </div>
            
@@ -241,9 +241,51 @@
             </div>
         </div>
     </section>
+    <section class="why-hpit-unique">
+        <div class="container">
+            <div class="row">
+            <div class="col-lg-8 why-hpit-height">
+                    <h3>1. Develop Your Strategic Point of View</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit quod culpa repellat tenetur? Veritatis dolore suscipit dolorem! </p>
+                    <a class="defaultBtn mt-3" href="our-leaders.php">Learn more </a>
+                </div>
+                <div class="col-lg-4"></div>
+             
+            </div>
+           
+        </div>
+    </section>
 
+    <section class="bg-white why_hpit_content">
+        <div class="container">
+        <div class="row">
+        <div class="col-lg-8 img-why right">
+                    <div class="main-block-img">
+                        <img src="assets/img/assets/why-hpit-5.jpg" alt="team">
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="main-box">
+                        <div class="sub-box">
+                            <h3>A multiparty system's path through chaos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit quod culpa repellat tenetur? Veritatis dolore suscipit dolorem!</p>
+                        </div>
+                        <div class="sub-box">
+                            <h3>Picturing the value of blockchain</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit quod culpa repellat tenetur? Veritatis dolore suscipit dolorem!</p>
+                        </div>
+                        <div class="sub-box border-none">
+                            <h3>Blockchain’s potential starts with security</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit quod culpa repellat tenetur? Veritatis dolore suscipit dolorem!</p>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
 
-    <section class="realeated-capability bg-star-left-blue py-5">
+    <section class="realeated-capability bg-star-left-blue py-5 why-hpit-realeated">
         <div class="container">
             <h2 class="sectionHead">Related <span>capabilities</span></h2>
             <div class="row g-5 pt-5 ">

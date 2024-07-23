@@ -1822,10 +1822,14 @@ width: 50%;
 section.diversity .content-image{
     z-index: 1;
 }
+section.diversity h2.sectionHead.gh {
+    text-align: center;
+    margin-bottom: 50px;
+}
 section.diversity .content-card{
     background-color: #F3F3F3;
     padding: 30px 50px;
-    margin-left: -170px;
+
     z-index: 7 !important;
     position: relative;
     margin-bottom: 45px;
@@ -1833,12 +1837,62 @@ section.diversity .content-card{
    
 }
 
+form.job_search {
+    display: flex;
+    align-items: baseline;
+    gap: 0 10px;
+}
+.bg-white-leader {
+    background-color: #f3f3f3;
+    padding:80px 0;
+}
+
+
+.bg-white-leader h2{
+   color:black;
+}
+
+
+form.job_search .mb-3 {
+    width: 100%;
+}
+
+
+form.job_search .mb-3 input{
+    outline:none !important;
+}
+
+
+
+
+button.defaultBtn.border-none {
+    border: none;
+}
 body.industries section.diversity .content-card {
     margin-bottom: 90px;
 }
 section.diversity .content-card h2 {
-    font-size: 80px;
+    font-size: 42px;
 }
+
+section.diversity .content-card p {
+font-size: 18px;
+}
+
+section.diversity .content-card {
+    display: flex;
+    gap: 0 30px;
+    align-items: center;
+}
+
+section.diversity .content_img img{
+    border-radius:100%;
+    height:200px;
+    width:200px;
+    object-fit:cover;
+}
+
+
 /* Diversity, Equity and Inclusion END*/
 
 /* Contract Vehicles */
@@ -2537,9 +2591,9 @@ section#section4 .nav button {
     padding-left: 30px;
 }
 
-.company-overview-video .videoWrapper{
+/* .company-overview-video .videoWrapper{
     border-radius:50px ;
-}
+} */
 
 .overview-team h3{
     font-family: var(--oswald);
@@ -2621,6 +2675,8 @@ button.expertires-btn {
 .experiesss img{
     width: 100%;
     border-radius: 20px;
+    height: 300px;
+    object-fit: cover;
 }
 .experiesss p{
         font-size: 18px !important;
@@ -3069,7 +3125,7 @@ section.why-hpit-unique .why-hpit-height a.defaultBtn {
 .help_block {
     height: 192px;
     width: 192px;
-    background-color: #009ad6;
+    background-color: black;
     color: white;
     padding: 20px;
     display: flex;
@@ -3209,8 +3265,20 @@ h3.army_h3.mt-0 {
 
 
 .armey-white_block {
-    background-color: white;
+    background-color: #f3f3f3;
     padding: 50px;
+}
+
+.why-hpit-realeated{
+    background-color: #f3f3f3 !important;
+}
+
+.why-hpit-realeated .block-box{
+    background-color: white !important;
+}
+
+.bg-army_white{
+    background-color: white !important;
 }
 @media (pointer: coarse) {
     #js-pointer-detector {

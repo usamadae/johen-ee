@@ -67,44 +67,16 @@
                             <div class="form-floating">
                                 <select class="form-select" id="floatingSelect"
                                     aria-label="Floating label select example">
-                                    <option value="Accounting-General">Accounting-General</option>
-                                    <option value="Audit Committee">Audit Committee</option>
-                                    <option value="Audit Committee-Chair">Audit Committee-Chair</option>
-                                    <option value="Banker-Commercial">Banker-Commercial</option>
-                                    <option value="Banker-Investment Banker">Banker-Investment Banker</option>
-                                    <option value="Benefits and Compensation">Benefits and Compensation</option>
-                                    <option value="Board Member">Board Member</option>
-                                    <option value="C-Suite">C-Suite</option>
-                                    <option value="Cash Management">Cash Management</option>
-                                    <option value="Chairman">Chairman</option>
-                                    <option value="Chief Accounting Officer">Chief Accounting Officer</option>
-                                    <option value="Chief Administrative Officer">Chief Administrative Officer</option>
-                                    <option value="Chief Audit Officer">Chief Audit Officer</option>
-                                    <option value="Chief Compliance Officer">Chief Compliance Officer</option>
-                                    <option value="Chief Executive Officer">Chief Executive Officer</option>
-                                    <option value="Chief Financial Officer">Chief Financial Officer</option>
-                                    <option value="Chief Human Resources Officer">Chief Human Resources Officer</option>
-                                    <option value="Chief Information/Knowledge Officer">Chief Information/Knowledge
-                                        Officer
-                                    </option>
-                                    <option value="Chief Marketing Officer">Chief Marketing Officer</option>
-                                    <option value="Chief Operating Officer">Chief Operating Officer</option>
-                                    <option value="Chief Risk Officer">Chief Risk Officer</option>
-                                    <option value="Chief Sales Officer">Chief Sales Officer</option>
-                                    <option value="Chief Technology Officer">Chief Technology Officer</option>
-                                    <option value="Compliance-General">Compliance-General</option>
-                                    <option value="Consultant">Consultant</option>
-                                    <option value="Controller">Controller</option>
-                                    <option value="Corporate Communications">Corporate Communications</option>
-                                    <option value="Corporate Development">Corporate Development</option>
-                                    <option value="Corporate Secretary">Corporate Secretary</option>
-                                    <option value="Customer Service">Customer Service</option>
-                                    <option value="E-commerce">E-commerce</option>
-                                    <option value="Engineering/Technical">Engineering/Technical</option>
-                                    <option value="Environment">Environment</option>
-                                    <option value="Finance - Other">Finance - Other</option>
-                                    <option value="Fund Management">Fund Management</option>
-                                    <option value="Government/Public Affairs">Government/Public Affairs</option>
+                                    <!-- 
+                                     -->
+                                    <option value="Careers">Careers</option>
+                                    <option value="Gernal Inquiry">Gernal Inquiry</option>
+                                    <option value="Media Relations">Media Relations</option>
+                                    <option value="Partnerships">Partnerships</option>
+                                    <option value="Sales & Business Development">Sales & Buisness Development</option>
+                                    <option value="Security">Security</option>
+                                    <option value="Small Business Inquiry">Small Business Inquiry</option>
+                                    <option value="Website Feedback">Website Feedback</option>
                                 </select>
                                 <label for="floatingSelect">TITLE</label>
                             </div>
@@ -174,40 +146,58 @@
 
 
                         <div class="mt-3">
-                        <div class="form-floating">
-  <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea" style="height: 200px"></textarea>
-  <label for="floatingTextarea">Comments</label>
-</div>
+                            <div class="form-floating">
+                                <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea"
+                                    style="height: 200px"></textarea>
+                                <label for="floatingTextarea">Comments</label>
+                            </div>
                         </div>
 
                         <button type="submit" class="btn btn-primary contact-btn mt-3">Send Message</button>
                     </form>
                 </div>
                 <div class="col-lg-4">
-                <div class="team-socail">
+                    <div class="team-socail">
                         <h5>RFP</h5>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 
                         <a class="defaultBtn mt-3 text-white" href="request-for-proposal.php">Submit RFP</a>
                     </div>
                     <div class="team-socail mt-5">
-                        <h5>Careers</h5>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <h5>CORPORATE HEADQUARTERS</h5>
+                        <p>1750 Tysons Blvd Suite 1500 <br>
+                            McLean, VA 22102 <br>
+                            703-777-HPIT <br>
+                            1-866-900-HPIT <br>
+                            info@hpit-inc.com</p>
 
-                        <a class="defaultBtn mt-3 text-white" href="careers.php">Learn More</a>
                     </div>
                     <div class="team-socail mt-5">
                         <h5>More ways to connect</h5>
                         <p><span>
-                                    <svg width="30px" height="30px" viewBox="-2.4 -2.4 28.80 28.80" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"><rect x="-2.4" y="-2.4" width="28.80" height="28.80" rx="4.32" fill="#FE0000" strokewidth="0"></rect></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.803 5.33333C13.803 3.49238 15.3022 2 17.1515 2C19.0008 2 20.5 3.49238 20.5 5.33333C20.5 7.17428 19.0008 8.66667 17.1515 8.66667C16.2177 8.66667 15.3738 8.28596 14.7671 7.67347L10.1317 10.8295C10.1745 11.0425 10.197 11.2625 10.197 11.4872C10.197 11.9322 10.109 12.3576 9.94959 12.7464L15.0323 16.0858C15.6092 15.6161 16.3473 15.3333 17.1515 15.3333C19.0008 15.3333 20.5 16.8257 20.5 18.6667C20.5 20.5076 19.0008 22 17.1515 22C15.3022 22 13.803 20.5076 13.803 18.6667C13.803 18.1845 13.9062 17.7255 14.0917 17.3111L9.05007 13.9987C8.46196 14.5098 7.6916 14.8205 6.84848 14.8205C4.99917 14.8205 3.5 13.3281 3.5 11.4872C3.5 9.64623 4.99917 8.15385 6.84848 8.15385C7.9119 8.15385 8.85853 8.64725 9.47145 9.41518L13.9639 6.35642C13.8594 6.03359 13.803 5.6896 13.803 5.33333Z" fill="#ffffff"></path> </g></svg>
-                                </span>
-                                <b>Follow us on social media</b></p>
+                                <svg width="30px" height="30px" viewBox="-2.4 -2.4 28.80 28.80" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg" stroke="#ffffff">
+                                    <g id="SVGRepo_bgCarrier" stroke-width="0">
+                                        <rect x="-2.4" y="-2.4" width="28.80" height="28.80" rx="4.32" fill="#FE0000"
+                                            strokewidth="0"></rect>
+                                    </g>
+                                    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                                    <g id="SVGRepo_iconCarrier">
+                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                            d="M13.803 5.33333C13.803 3.49238 15.3022 2 17.1515 2C19.0008 2 20.5 3.49238 20.5 5.33333C20.5 7.17428 19.0008 8.66667 17.1515 8.66667C16.2177 8.66667 15.3738 8.28596 14.7671 7.67347L10.1317 10.8295C10.1745 11.0425 10.197 11.2625 10.197 11.4872C10.197 11.9322 10.109 12.3576 9.94959 12.7464L15.0323 16.0858C15.6092 15.6161 16.3473 15.3333 17.1515 15.3333C19.0008 15.3333 20.5 16.8257 20.5 18.6667C20.5 20.5076 19.0008 22 17.1515 22C15.3022 22 13.803 20.5076 13.803 18.6667C13.803 18.1845 13.9062 17.7255 14.0917 17.3111L9.05007 13.9987C8.46196 14.5098 7.6916 14.8205 6.84848 14.8205C4.99917 14.8205 3.5 13.3281 3.5 11.4872C3.5 9.64623 4.99917 8.15385 6.84848 8.15385C7.9119 8.15385 8.85853 8.64725 9.47145 9.41518L13.9639 6.35642C13.8594 6.03359 13.803 5.6896 13.803 5.33333Z"
+                                            fill="#ffffff"></path>
+                                    </g>
+                                </svg>
+                            </span>
+                            <b>Follow us on social media</b>
+                        </p>
 
-                                <div class="social-para">
-                                <p>Join us on <a href="#">Facebook</a>, <a href="#">Linkedin</a>, 
-                                    <a href="#">Youtube</a> and <a href="#">Twitter</a></p>
-                                </div>    
-                            
+                        <div class="social-para">
+                            <p>Join us on <a href="#">Facebook</a>, <a href="#">Linkedin</a>,
+                                <a href="#">Youtube</a> and <a href="#">Twitter</a>
+                            </p>
+                        </div>
+
                         <!--<p> <a href="#">
                                 <span>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="30px"
@@ -219,14 +209,27 @@
                                 linkedin.com/Hpit
                             </a></p>-->
 
-                            <p><span>
-                                    <svg width="30px" height="30px" viewBox="-2.4 -2.4 28.80 28.80" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"><rect x="-2.4" y="-2.4" width="28.80" height="28.80" rx="4.32" fill="#FE0000" strokewidth="0"></rect></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.803 5.33333C13.803 3.49238 15.3022 2 17.1515 2C19.0008 2 20.5 3.49238 20.5 5.33333C20.5 7.17428 19.0008 8.66667 17.1515 8.66667C16.2177 8.66667 15.3738 8.28596 14.7671 7.67347L10.1317 10.8295C10.1745 11.0425 10.197 11.2625 10.197 11.4872C10.197 11.9322 10.109 12.3576 9.94959 12.7464L15.0323 16.0858C15.6092 15.6161 16.3473 15.3333 17.1515 15.3333C19.0008 15.3333 20.5 16.8257 20.5 18.6667C20.5 20.5076 19.0008 22 17.1515 22C15.3022 22 13.803 20.5076 13.803 18.6667C13.803 18.1845 13.9062 17.7255 14.0917 17.3111L9.05007 13.9987C8.46196 14.5098 7.6916 14.8205 6.84848 14.8205C4.99917 14.8205 3.5 13.3281 3.5 11.4872C3.5 9.64623 4.99917 8.15385 6.84848 8.15385C7.9119 8.15385 8.85853 8.64725 9.47145 9.41518L13.9639 6.35642C13.8594 6.03359 13.803 5.6896 13.803 5.33333Z" fill="#ffffff"></path> </g></svg>
-                                </span>
-                                <b>Ethical concerns</b></p>
+                        <p><span>
+                                <svg width="30px" height="30px" viewBox="-2.4 -2.4 28.80 28.80" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg" stroke="#ffffff">
+                                    <g id="SVGRepo_bgCarrier" stroke-width="0">
+                                        <rect x="-2.4" y="-2.4" width="28.80" height="28.80" rx="4.32" fill="#FE0000"
+                                            strokewidth="0"></rect>
+                                    </g>
+                                    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                                    <g id="SVGRepo_iconCarrier">
+                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                            d="M13.803 5.33333C13.803 3.49238 15.3022 2 17.1515 2C19.0008 2 20.5 3.49238 20.5 5.33333C20.5 7.17428 19.0008 8.66667 17.1515 8.66667C16.2177 8.66667 15.3738 8.28596 14.7671 7.67347L10.1317 10.8295C10.1745 11.0425 10.197 11.2625 10.197 11.4872C10.197 11.9322 10.109 12.3576 9.94959 12.7464L15.0323 16.0858C15.6092 15.6161 16.3473 15.3333 17.1515 15.3333C19.0008 15.3333 20.5 16.8257 20.5 18.6667C20.5 20.5076 19.0008 22 17.1515 22C15.3022 22 13.803 20.5076 13.803 18.6667C13.803 18.1845 13.9062 17.7255 14.0917 17.3111L9.05007 13.9987C8.46196 14.5098 7.6916 14.8205 6.84848 14.8205C4.99917 14.8205 3.5 13.3281 3.5 11.4872C3.5 9.64623 4.99917 8.15385 6.84848 8.15385C7.9119 8.15385 8.85853 8.64725 9.47145 9.41518L13.9639 6.35642C13.8594 6.03359 13.803 5.6896 13.803 5.33333Z"
+                                            fill="#ffffff"></path>
+                                    </g>
+                                </svg>
+                            </span>
+                            <b>Ethical concerns</b>
+                        </p>
 
-                                <div class="social-para">
-                                <p>Please use our <a href="#">Ethics Hotline</a></p>
-                                </div>
+                        <div class="social-para">
+                            <p>Please use our <a href="#">Ethics Hotline</a></p>
+                        </div>
 
 
                     </div>
@@ -241,7 +244,7 @@
 
 
 
-   
+
     <?php include 'components/footer.php'; ?>
     <?php include 'layouts/body.php'; ?>
 </body>

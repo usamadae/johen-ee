@@ -69,7 +69,7 @@
     </section>
 
 
-    <section class="global-scale pt-lg-5 pb-lg-5 ">
+    <section class="global-scale pt-lg-5 pb-lg-5 bg-army_white">
         <div class="container">
             <div class="row army_p">
 

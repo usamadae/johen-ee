@@ -87,6 +87,17 @@
                                 href="#">Intelligence Operations Support</a></li>
 
                     </ul>
+                    <ul id="megamenu7" class="hide">
+                        <li><span><img src="assets/img/icons/mega13.svg" alt="C2/4 & ISR"></span><a href="#">C2/4 j&
+                                IhdgdghSR</a></li>
+                        <li><span><img src="assets/img/icons/mega14.svg" alt="Platforms Mission Support"></span><a
+                                href="#">Platforms Mission Support</a></li>
+                        <li><span><img src="assets/img/icons/mega15.svg" alt="Operations & Sustainment"></span><a
+                                href="#">Operations & Sustainment</a></li>
+                        <li><span><img src="assets/img/icons/mega16.svg" alt="Intelligence Operations Support"></span><a
+                                href="#">Intelligence Operations Support</a></li>
+
+                    </ul>
                 </nav>
             </div>
         </div>
@@ -582,6 +593,8 @@ document.querySelectorAll('.navbar-nav .nav-item').forEach(menuItem2 => {
         megamenu5.classList.add('hide');
         var megamenu6 = document.getElementById('megamenu6');
         megamenu6.classList.add('hide');
+        var megamenu7 = document.getElementById('megamenu7');
+        megamenu7.classList.add('hide');
 
         // Add the class "hide" to the element with ID "megamenu2"
         var megamenu2 = document.getElementById('megamenu2');
