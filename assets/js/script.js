@@ -210,7 +210,7 @@
     })
 
     $(document).ready(function(){
-
+  
         $(".help_block .btn_svg").click(function(){
             // Remove 'active' class from all .help_block elements
             $(".help_block").removeClass("active");
@@ -482,3 +482,4 @@ function videoPlay($wrapper) {
     touchVideo();
  });
  
+

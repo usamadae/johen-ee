@@ -407,9 +407,9 @@ const megamenus2 = {
                 icon: 'mega43.svg'
             },
             {
-                label: 'Latest Opportunities',
+                label: 'Our Culture',
                 link: '#',
-                icon: 'mega34.svg'
+                icon: 'mega45.svg'
             },
             {
                 label: 'Military Veterans',
@@ -417,12 +417,10 @@ const megamenus2 = {
                 icon: 'mega44.svg'
             },
             {
-                label: 'Our Culture',
+                label: 'Latest Opportunities',
                 link: '#',
-                icon: 'mega45.svg'
+                icon: 'mega34.svg'
             }
-
-
         ]
     }
 
