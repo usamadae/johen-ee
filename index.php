@@ -229,7 +229,7 @@
                         <img src="assets/img/logos/client-2.jpg" alt="Client">
                     </div>
                 </div> -->
-
+                <?php /*
                 <div id="clientSlide">
                     <div class="position-relative">
                         <div class="client_side">
@@ -368,6 +368,7 @@
                         </div>
                     </div>
                 </div>
+                */ ?>
             </div>
         </div>
         </div>
