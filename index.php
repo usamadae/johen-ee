@@ -191,6 +191,7 @@
             </div>
         </section>
     </section>
+
     <section id="section3" class="spotLight bg-star-right-black">
         <div class="container">
 
@@ -374,10 +375,67 @@
         </div>
     </section>
 
+    <section id="cloudSection" class="bg-white spotLight bg-star-left-black">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 mt-2">
+                    <div class="boxTitle">
+                        Networking
+                    </div>
+                    <div class="boxData">
+                        <img src="assets/img/icons/network.png">
+                        <p>
+                            IT manages network and security devices.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-md-3 mt-2">
+                    <div class="boxTitle">
+                        Security
+                    </div>
+                    <div class="boxData">
+                        <img src="assets/img/icons/security.png">
+                        <p>
+                            IT makes changes, guided by crowed
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-md-3 mt-2">
+                    <div class="boxTitle">
+                        Cloud
+                    </div>
+                    <div class="boxData">
+                        <img src="assets/img/icons/cloud.png">
+                        <p>
+                            User allows software to make low risk changes
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-md-3 mt-2">
+                    <div class="boxTitle">
+                        Automation
+                    </div>
+                    <div class="boxData">
+                        <img src="assets/img/icons/automation.png">
+                        <p>
+                            Users allows software to make high risk changes
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="clipathSection">
+                    <h3>Cloud Adoption</h3>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
-
-    <section id="section4" class="bg-white bg-padding">
+    <section id="section4" class="bg-white bg-padding bg-star-right-black">
         <div class="container">
             <h2 class="sectionHead">How Can <span>We Help</span></h2>
             <div class="row">
@@ -507,7 +565,7 @@
         </div>
     </section>
 
-    <section id="section5" class="weAre bg-star-right-black">
+    <section id="section5" class="weAre bg-star-left-black">
         <!-- <div class="container">
             <div class="row">
                 <h4>Find your Career</h4>
@@ -581,7 +639,7 @@
 
         <section class="diversity">
             <div class="container" bis_skin_checked="1">
-            <h2 class="sectionHead gh">Join<span>The Team</span></h2>
+                <h2 class="sectionHead gh">Join<span>The Team</span></h2>
                 <div class="row align-items-end" bis_skin_checked="1">
 
                     <div class="content" bis_skin_checked="1">
@@ -596,10 +654,10 @@
                                     We break out of silos and look beyond individual tasks, ensuring every piece of the
                                     puzzle is in
                                     place and performing the way it should.
-                                  
+
 
                                 </p>
-                                <a class="defaultBtn mt-3" href="#">Join Our Talent Network</a>
+                                <a class="defaultBtn mt-3" href="#">Leran More</a>
                             </div>
                         </div>
                     </div>
@@ -616,10 +674,10 @@
                                     We break out of silos and look beyond individual tasks, ensuring every piece of the
                                     puzzle is in
                                     place and performing the way it should.
-                                  
+
 
                                 </p>
-                                <a class="defaultBtn mt-3" href="#">Join Our Talent Network</a>
+                                <a class="defaultBtn mt-3" href="#">Leran More</a>
                             </div>
                         </div>
                     </div>
@@ -627,49 +685,49 @@
 
                     <div class="content" bis_skin_checked="1">
 
-<div class="content-card" bis_skin_checked="1">
-    <div class="content_img">
-        <img src="assets/img/assets/join3.jpg" alt="image">
-    </div>
-    <div>
-        <h2 class="sectionHead">Our <span>Career</span></h2>
-        <p class="subPera">
-            We break out of silos and look beyond individual tasks, ensuring every piece of the
-            puzzle is in
-            place and performing the way it should.
-           
+                        <div class="content-card" bis_skin_checked="1">
+                            <div class="content_img">
+                                <img src="assets/img/assets/join3.jpg" alt="image">
+                            </div>
+                            <div>
+                                <h2 class="sectionHead">Our <span>Career</span></h2>
+                                <p class="subPera">
+                                    We break out of silos and look beyond individual tasks, ensuring every piece of the
+                                    puzzle is in
+                                    place and performing the way it should.
 
-        </p>
-        <a class="defaultBtn mt-3" href="#">Join Our Talent Network</a>
-    </div>
-</div>
-</div>
 
-<div class="content" bis_skin_checked="1">
+                                </p>
+                                <a class="defaultBtn mt-3" href="#">Latest Opportunties</a>
+                            </div>
+                        </div>
+                    </div>
 
-<div class="content-card" style="top:50px" bis_skin_checked="1">
-    <div class="content_img">
-        <img src="assets/img/assets/join4.jpg" alt="image">
-    </div>
-    <div>
-        <h2 class="sectionHead">Join the  <span>Network</span></h2>
-        <p class="subPera">
-            We break out of silos and look beyond individual tasks, ensuring every piece of the
-            puzzle is in
-            place and performing the way it should.
-   
+                    <div class="content" bis_skin_checked="1">
 
-        </p>
-        <a class="defaultBtn mt-3" href="#">Join Our Talent Network</a>
-    </div>
-</div>
-</div>
+                        <div class="content-card" style="top:50px" bis_skin_checked="1">
+                            <div class="content_img">
+                                <img src="assets/img/assets/join4.jpg" alt="image">
+                            </div>
+                            <div>
+                                <h2 class="sectionHead">Join the <span>Network</span></h2>
+                                <p class="subPera">
+                                    We break out of silos and look beyond individual tasks, ensuring every piece of the
+                                    puzzle is in
+                                    place and performing the way it should.
+
+
+                                </p>
+                                <a class="defaultBtn mt-3" href="#">Join Our Talent Network</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
     </section>
 
-    <section id="section6" class="newsInsights bg-star-left-black">
+    <section id="section6" class="newsInsights bg-star-right-black">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
