@@ -114,7 +114,7 @@
             </div>
     </section>
 
-    <section id="section2" class="spotLight bg-star-left-black">
+    <section id="section2" class="spotLight bg-star-right-black">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
@@ -192,7 +192,7 @@
         </section>
     </section>
 
-    <section id="section3" class="spotLight bg-star-right-black">
+    <section id="section3" class="spotLight bg-star-left-black">
         <div class="container">
 
             <div class="row">
@@ -202,6 +202,65 @@
                         infrastructure leaders.</p>
                     <a class="defaultBtn mt-3" href="#">Learn more</a>
                 </div>
+
+                <section id="cloudSection" class="spotLight">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-3 mt-2">
+                                <div class="boxTitle">
+                                    Networking
+                                </div>
+                                <div class="boxData">
+                                    <img src="assets/img/icons/network.png">
+                                    <p>
+                                        IT manages network and security devices.
+                                    </p>
+                                </div>
+                            </div>
+            
+                            <div class="col-md-3 mt-2">
+                                <div class="boxTitle">
+                                    Security
+                                </div>
+                                <div class="boxData">
+                                    <img src="assets/img/icons/security.png">
+                                    <p>
+                                        IT makes changes, guided by crowed
+                                    </p>
+                                </div>
+                            </div>
+            
+                            <div class="col-md-3 mt-2">
+                                <div class="boxTitle">
+                                    Cloud
+                                </div>
+                                <div class="boxData">
+                                    <img src="assets/img/icons/cloud.png">
+                                    <p>
+                                        User allows software to make low risk changes
+                                    </p>
+                                </div>
+                            </div>
+            
+                            <div class="col-md-3 mt-2">
+                                <div class="boxTitle">
+                                    Automation
+                                </div>
+                                <div class="boxData">
+                                    <img src="assets/img/icons/automation.png">
+                                    <p>
+                                        Users allows software to make high risk changes
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="row">
+                            <div class="clipathSection">
+                                <h3>Cloud Adoption</h3>
+                            </div>
+                        </div> -->
+                    </div>
+                </section>
             </div>
             <div class="row mt-5">
                 <!-- <div id="clientSlide">
@@ -375,64 +434,7 @@
         </div>
     </section>
 
-    <section id="cloudSection" class="bg-white spotLight bg-star-left-black">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 mt-2">
-                    <div class="boxTitle">
-                        Networking
-                    </div>
-                    <div class="boxData">
-                        <img src="assets/img/icons/network.png">
-                        <p>
-                            IT manages network and security devices.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-md-3 mt-2">
-                    <div class="boxTitle">
-                        Security
-                    </div>
-                    <div class="boxData">
-                        <img src="assets/img/icons/security.png">
-                        <p>
-                            IT makes changes, guided by crowed
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-md-3 mt-2">
-                    <div class="boxTitle">
-                        Cloud
-                    </div>
-                    <div class="boxData">
-                        <img src="assets/img/icons/cloud.png">
-                        <p>
-                            User allows software to make low risk changes
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-md-3 mt-2">
-                    <div class="boxTitle">
-                        Automation
-                    </div>
-                    <div class="boxData">
-                        <img src="assets/img/icons/automation.png">
-                        <p>
-                            Users allows software to make high risk changes
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="clipathSection">
-                    <h3>Cloud Adoption</h3>
-                </div>
-            </div>
-        </div>
-    </section>
+   
 
 
     <section id="section4" class="bg-white bg-padding bg-star-right-black">

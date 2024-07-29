@@ -77,9 +77,10 @@
 
                     </ul>
                     <ul id="megamenu6" class="hide">
-                        <li><span><img src="assets/img/icons/mega13.svg" alt="C2/4 & ISR"></span><a href="#">Menu 6</a></li>
-                        <li><span><img src="assets/img/icons/mega13.svg" alt="C2/4 & ISR"></span><a href="#">Menu 6</a></li>
-                        <li><span><img src="assets/img/icons/mega13.svg" alt="C2/4 & ISR"></span><a href="#">Menu 6</a></li>
+                        <li><span><img src="assets/img/icons/mega11.svg" alt="C2/4 & ISR"></span><a href="#">Advisor Overview</a></li>
+                        <li><span><img src="assets/img/icons/mega14.svg" alt="C2/4 & ISR"></span><a href="#">Experience advisory</a></li>
+                        <li><span><img src="assets/img/icons/mega12.svg" alt="C2/4 & ISR"></span><a href="#">Strategic advisory</a></li>
+                        <li><span><img src="assets/img/icons/mega8.svg" alt="C2/4 & ISR"></span><a href="#">Technology advisory</a></li>
                     </ul>
                     <!-- <ul id="megamenu7" class="hide">
                         <li><span><img src="assets/img/icons/mega13.svg" alt="C2/4 & ISR"></span><a href="#">C2/4 j&

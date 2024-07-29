@@ -2580,17 +2580,13 @@ section.specifc-asia {
 .videoPoster:after {
     content: "";
     position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 0;
-    height: 0;
-    margin: -25px 0 0 -14px;
-    border-left: 40px solid rgba(255, 255, 255, 0.75);
-    border-top: 25px solid transparent;
-    border-bottom: 25px solid transparent;
-    transition: all 0.3s ease;
-    transform: scale(1);
-    box-shadow: 0 0 5px 0 transparent;
+    top: 45%;
+    left: 45%;
+    width: 80px;
+    height: 80px;
+   background-image: url('../img/assets/play-video.svg');
+   background-position: center;
+   background-size: contain;
 }
 
 .home-video-close {
@@ -3468,7 +3464,7 @@ h3.army_h3.mt-0 {
 
 
 #cloudSection {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 #cloudSection .boxTitle {
@@ -3480,12 +3476,13 @@ h3.army_h3.mt-0 {
 }
 
 #cloudSection .boxData {
-    border: 1px solid #BBC0C7;
+    border: 1px solid white;
     padding: 15px;
     font-size: 18px;
     text-align: center;
     font-weight: 600;
     height: 100%;
+    background-color: white;
 }
 
 .clipathSection {
