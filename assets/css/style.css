@@ -1971,13 +1971,17 @@ form.job_search .mb-3 {
 
 form.job_search .mb-3 input {
     outline: none !important;
+    height: 50px;
 }
 
 
-
+.padding_com{
+    padding: 80px 0;
+}
 
 button.defaultBtn.border-none {
     border: none;
+    height: 50px;
 }
 
 body.industries section.diversity .content-card {

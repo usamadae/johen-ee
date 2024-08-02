@@ -651,7 +651,7 @@
 
 
 
-    <section class="newsInsights bg-white-leader">
+    <section class="newsInsights bg-white padding_com">
         <div class="container" bis_skin_checked="1">
             <div class="row" bis_skin_checked="1">
                 <div class="col-12 text-center" bis_skin_checked="1">

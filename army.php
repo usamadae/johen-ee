@@ -50,7 +50,7 @@
     <?php include 'components/header.php'; ?>
 
 
-    <section class="company-banner" style="background-image: url('assets/img/assets/army.jpg') !important;">
+    <section class="company-banner" style="background-image: none !important;">
         <div class="container">
             <div class="row">
 
@@ -68,19 +68,24 @@
         </div>
     </section>
 
-
-    <section class="global-scale pt-lg-5 pb-lg-5 bg-army_white">
-        <div class="container">
-            <div class="row army_p">
-
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+    <section class="global-scale bg-padding ">
+        <div class="container" bis_skin_checked="1">
+            <div class="row" bis_skin_checked="1">
+                <h2 class="sectionHead">Lorem Ipsum&nbsp;is <span>simply dummy text</span></h2>
+                <p>Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
                     industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                    and scrambled it to make a type specimen book. 
+                    and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+                    leap into electronic typesetting, remaining essentially unchanged
                 </p>
 
             </div>
+        </div>
+    </section>
+    <section class="global-scale pt-lg-5 pb-lg-5 bg-army_white">
+        <div class="container">
+           
 
-            <hr>
+            
 
             <div class="row army">
                 <div class="col-lg-7">
@@ -142,7 +147,20 @@
 
   
 
-    
+    <section class="ctaSec">
+        <div class="container" bis_skin_checked="1">
+            <div class="row" bis_skin_checked="1">
+                <div class="col-md-9 m-auto text-center" bis_skin_checked="1">
+                    <h3>
+                        Let's Talk About
+                        How We Could Work
+                        Together
+                    </h3>
+                    <a class="defaultBtn mt-3" href="#">CONTACT HPIT</a>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
 
